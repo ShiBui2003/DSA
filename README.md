@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ShiBui2003/DSA/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiBui2003/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -134,8 +135,10 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ShiBui2003/DSA/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiBui2003/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ShiBui2003/DSA/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiBui2003/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
