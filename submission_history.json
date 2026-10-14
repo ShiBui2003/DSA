@@ -1,0 +1,2664 @@
+[
+  {
+    "id": "2166504933",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1791475888000,
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "titleSlug": "binary-tree-zigzag-level-order-traversal"
+  },
+  {
+    "id": "2165448162",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1791387582000,
+    "title": "Symmetric Tree",
+    "titleSlug": "symmetric-tree"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "393560117",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1791386173000,
+    "title": "Array Coloring",
+    "titleSlug": "1857/A"
+  },
+  {
+    "id": "2164581424",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1791309925000,
+    "title": "Binary Tree Maximum Path Sum",
+    "titleSlug": "binary-tree-maximum-path-sum"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "392981530",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1790958795000,
+    "title": "Buttons",
+    "titleSlug": "1858/A"
+  },
+  {
+    "id": "2160338964",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1790958504000,
+    "title": "Generate Parentheses",
+    "titleSlug": "generate-parentheses"
+  },
+  {
+    "id": "2160337622",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1790958425000,
+    "title": "Two Sum",
+    "titleSlug": "two-sum"
+  },
+  {
+    "id": "2137806552",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1789062483000,
+    "title": "Diameter of Binary Tree",
+    "titleSlug": "diameter-of-binary-tree"
+  },
+  {
+    "id": "2075850179",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784640073000,
+    "title": "Diameter of Binary Tree",
+    "titleSlug": "diameter-of-binary-tree"
+  },
+  {
+    "id": "2075849859",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784640055000,
+    "title": "Diameter of Binary Tree",
+    "titleSlug": "diameter-of-binary-tree"
+  },
+  {
+    "id": "2071996164",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784364480000,
+    "title": "Balanced Binary Tree",
+    "titleSlug": "balanced-binary-tree"
+  },
+  {
+    "id": "2064067628",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783787455000,
+    "title": "Maximum Depth of Binary Tree",
+    "titleSlug": "maximum-depth-of-binary-tree"
+  },
+  {
+    "id": "2060195107",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783496199000,
+    "title": "Binary Tree Level Order Traversal",
+    "titleSlug": "binary-tree-level-order-traversal"
+  },
+  {
+    "id": "2058234052",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783352847000,
+    "title": "Binary Tree Postorder Traversal",
+    "titleSlug": "binary-tree-postorder-traversal"
+  },
+  {
+    "id": "2058198370",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783350971000,
+    "title": "Binary Tree Inorder Traversal",
+    "titleSlug": "binary-tree-inorder-traversal"
+  },
+  {
+    "id": "2057105839",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783268223000,
+    "title": "Binary Tree Preorder Traversal",
+    "titleSlug": "binary-tree-preorder-traversal"
+  },
+  {
+    "id": "2019060012",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1780313907000,
+    "title": "Best Time to Buy and Sell Stock using Strategy",
+    "titleSlug": "best-time-to-buy-and-sell-stock-using-strategy"
+  },
+  {
+    "id": "2017655949",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1780191928000,
+    "title": "Fruit Into Baskets",
+    "titleSlug": "fruit-into-baskets"
+  },
+  {
+    "id": "2004104662",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1778876469000,
+    "title": "Maximize the Confusion of an Exam",
+    "titleSlug": "maximize-the-confusion-of-an-exam"
+  },
+  {
+    "id": "1998159179",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1778247840000,
+    "title": "Most Profit Assigning Work",
+    "titleSlug": "most-profit-assigning-work"
+  },
+  {
+    "id": "1996058786",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1778004218000,
+    "title": "Most Profit Assigning Work",
+    "titleSlug": "most-profit-assigning-work"
+  },
+  {
+    "id": "1994401245",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1777831386000,
+    "title": "Most Profit Assigning Work",
+    "titleSlug": "most-profit-assigning-work"
+  },
+  {
+    "id": "1993482165",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1777740093000,
+    "title": "Magnetic Force Between Two Balls",
+    "titleSlug": "magnetic-force-between-two-balls"
+  },
+  {
+    "id": "1992761744",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1777656475000,
+    "title": "Number of Flowers in Full Bloom",
+    "titleSlug": "number-of-flowers-in-full-bloom"
+  },
+  {
+    "id": "1989394949",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1777294437000,
+    "title": "Magnetic Force Between Two Balls",
+    "titleSlug": "magnetic-force-between-two-balls"
+  },
+  {
+    "id": "1988704980",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1777215028000,
+    "title": "Minimum Time to Complete Trips",
+    "titleSlug": "minimum-time-to-complete-trips"
+  },
+  {
+    "id": "1988412746",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1777186003000,
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "titleSlug": "shortest-path-in-a-grid-with-obstacles-elimination"
+  },
+  {
+    "id": "1987646106",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1777113419000,
+    "title": "Image Overlap",
+    "titleSlug": "image-overlap"
+  },
+  {
+    "id": "1987646046",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1777113413000,
+    "title": "Image Overlap",
+    "titleSlug": "image-overlap"
+  },
+  {
+    "id": "1987216410",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1777054109000,
+    "title": "Continuous Subarray Sum",
+    "titleSlug": "continuous-subarray-sum"
+  },
+  {
+    "id": "1985353768",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776865370000,
+    "title": "Continuous Subarray Sum",
+    "titleSlug": "continuous-subarray-sum"
+  },
+  {
+    "id": "1985089855",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776839898000,
+    "title": "Set Mismatch",
+    "titleSlug": "set-mismatch"
+  },
+  {
+    "id": "1984746929",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776796516000,
+    "title": "Largest Perimeter Triangle",
+    "titleSlug": "largest-perimeter-triangle"
+  },
+  {
+    "id": "1984487586",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776779039000,
+    "title": "Increasing Triplet Subsequence",
+    "titleSlug": "increasing-triplet-subsequence"
+  },
+  {
+    "id": "1983734364",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776702026000,
+    "title": "Toeplitz Matrix",
+    "titleSlug": "toeplitz-matrix"
+  },
+  {
+    "id": "1982903971",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776621293000,
+    "title": "Group Anagrams",
+    "titleSlug": "group-anagrams"
+  },
+  {
+    "id": "1981863896",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776527521000,
+    "title": "Container With Most Water",
+    "titleSlug": "container-with-most-water"
+  },
+  {
+    "id": "1981556480",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776499263000,
+    "title": "Mirror Distance of an Integer",
+    "titleSlug": "mirror-distance-of-an-integer"
+  },
+  {
+    "id": "1981226147",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776452687000,
+    "title": "Rotate Image",
+    "titleSlug": "rotate-image"
+  },
+  {
+    "id": "1980408668",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776369513000,
+    "title": "Largest Magic Square",
+    "titleSlug": "largest-magic-square"
+  },
+  {
+    "id": "1979406902",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776273919000,
+    "title": "Check Digitorial Permutation",
+    "titleSlug": "check-digitorial-permutation"
+  },
+  {
+    "id": "1977071202",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776063863000,
+    "title": "Check Digitorial Permutation",
+    "titleSlug": "check-digitorial-permutation"
+  },
+  {
+    "id": "1976550897",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1776010651000,
+    "title": "Concatenation of Consecutive Binary Numbers",
+    "titleSlug": "concatenation-of-consecutive-binary-numbers"
+  },
+  {
+    "id": "1975393884",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775918227000,
+    "title": "Minimum Swaps to Arrange a Binary Grid",
+    "titleSlug": "minimum-swaps-to-arrange-a-binary-grid"
+  },
+  {
+    "id": "1975392936",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775918211000,
+    "title": "Minimum Swaps to Arrange a Binary Grid",
+    "titleSlug": "minimum-swaps-to-arrange-a-binary-grid"
+  },
+  {
+    "id": "1972653747",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775658379000,
+    "title": "Minimum Changes To Make Alternating Binary String",
+    "titleSlug": "minimum-changes-to-make-alternating-binary-string"
+  },
+  {
+    "id": "1970639579",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775486506000,
+    "title": "Non-overlapping Intervals",
+    "titleSlug": "non-overlapping-intervals"
+  },
+  {
+    "id": "1969642229",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775394493000,
+    "title": "Insert Interval",
+    "titleSlug": "insert-interval"
+  },
+  {
+    "id": "1968844368",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775325069000,
+    "title": "Candy",
+    "titleSlug": "candy"
+  },
+  {
+    "id": "1967516462",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775203410000,
+    "title": "Jump Game II",
+    "titleSlug": "jump-game-ii"
+  },
+  {
+    "id": "1967425104",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775196401000,
+    "title": "Jump Game",
+    "titleSlug": "jump-game"
+  },
+  {
+    "id": "1966974308",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775147281000,
+    "title": "Valid Parenthesis String",
+    "titleSlug": "valid-parenthesis-string"
+  },
+  {
+    "id": "1964776953",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774955859000,
+    "title": "Maximum Number of Integers to Choose From a Range I",
+    "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-i"
+  },
+  {
+    "id": "1964008067",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774887059000,
+    "title": "Maximum Distance in Arrays",
+    "titleSlug": "maximum-distance-in-arrays"
+  },
+  {
+    "id": "1963129239",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774807594000,
+    "title": "Maximum Bags With Full Capacity of Rocks",
+    "titleSlug": "maximum-bags-with-full-capacity-of-rocks"
+  },
+  {
+    "id": "1962032292",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774717357000,
+    "title": "Maximum Ice Cream Bars",
+    "titleSlug": "maximum-ice-cream-bars"
+  },
+  {
+    "id": "1959721852",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774514984000,
+    "title": "Broken Calculator",
+    "titleSlug": "broken-calculator"
+  },
+  {
+    "id": "1959066972",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774456385000,
+    "title": "Break a Palindrome",
+    "titleSlug": "break-a-palindrome"
+  },
+  {
+    "id": "1957982432",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774370407000,
+    "title": "Break a Palindrome",
+    "titleSlug": "break-a-palindrome"
+  },
+  {
+    "id": "1957619107",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774345274000,
+    "title": "Partition Labels",
+    "titleSlug": "partition-labels"
+  },
+  {
+    "id": "1957618997",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774345267000,
+    "title": "Partition Labels",
+    "titleSlug": "partition-labels"
+  },
+  {
+    "id": "1956976728",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774286986000,
+    "title": "Boats to Save People",
+    "titleSlug": "boats-to-save-people"
+  },
+  {
+    "id": "1956001319",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774201595000,
+    "title": "Bag of Tokens",
+    "titleSlug": "bag-of-tokens"
+  },
+  {
+    "id": "1954926674",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774111195000,
+    "title": "Lemonade Change",
+    "titleSlug": "lemonade-change"
+  },
+  {
+    "id": "1954188007",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1774030194000,
+    "title": "Assign Cookies",
+    "titleSlug": "assign-cookies"
+  },
+  {
+    "id": "1951152187",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1773756387000,
+    "title": "Maximum Frequency of an Element After Performing Operations I",
+    "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-i"
+  },
+  {
+    "id": "1950181561",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1773674337000,
+    "title": "Zero Array Transformation I",
+    "titleSlug": "zero-array-transformation-i"
+  },
+  {
+    "id": "1949407424",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1773599937000,
+    "title": "Zero Array Transformation III",
+    "titleSlug": "zero-array-transformation-iii"
+  },
+  {
+    "id": "1948358369",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1773516847000,
+    "title": "Choose K Elements With Maximum Sum",
+    "titleSlug": "choose-k-elements-with-maximum-sum"
+  },
+  {
+    "id": "1947267478",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1773424139000,
+    "title": "Choose K Elements With Maximum Sum",
+    "titleSlug": "choose-k-elements-with-maximum-sum"
+  },
+  {
+    "id": "1943928259",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1773147682000,
+    "title": "K-th Smallest Prime Fraction",
+    "titleSlug": "k-th-smallest-prime-fraction"
+  },
+  {
+    "id": "1943782770",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1773135823000,
+    "title": "Two Sum II - Input Array Is Sorted",
+    "titleSlug": "two-sum-ii-input-array-is-sorted"
+  },
+  {
+    "id": "1942937130",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1773066602000,
+    "title": "K-th Smallest Prime Fraction",
+    "titleSlug": "k-th-smallest-prime-fraction"
+  },
+  {
+    "id": "1942151231",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772991266000,
+    "title": "IPO",
+    "titleSlug": "ipo"
+  },
+  {
+    "id": "1940140330",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772820844000,
+    "title": "IPO",
+    "titleSlug": "ipo"
+  },
+  {
+    "id": "1938854187",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772721874000,
+    "title": "Lexicographically Minimum String After Removing Stars",
+    "titleSlug": "lexicographically-minimum-string-after-removing-stars"
+  },
+  {
+    "id": "1936095711",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772485201000,
+    "title": "Maximum Average Subarray I",
+    "titleSlug": "maximum-average-subarray-i"
+  },
+  {
+    "id": "1934055544",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772308416000,
+    "title": "Maximum Average Subarray I",
+    "titleSlug": "maximum-average-subarray-i"
+  },
+  {
+    "id": "1933038686",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772218005000,
+    "title": "Two Sum II - Input Array Is Sorted",
+    "titleSlug": "two-sum-ii-input-array-is-sorted"
+  },
+  {
+    "id": "1932073306",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772127669000,
+    "title": "Trapping Rain Water II",
+    "titleSlug": "trapping-rain-water-ii"
+  },
+  {
+    "id": "1931056694",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1772042365000,
+    "title": "Find Score of an Array After Marking All Elements",
+    "titleSlug": "find-score-of-an-array-after-marking-all-elements"
+  },
+  {
+    "id": "1929725838",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771942939000,
+    "title": "Longest Happy String",
+    "titleSlug": "longest-happy-string"
+  },
+  {
+    "id": "1928865633",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771870756000,
+    "title": "Maximal Score After Applying K Operations",
+    "titleSlug": "maximal-score-after-applying-k-operations"
+  },
+  {
+    "id": "1927815648",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771792304000,
+    "title": "Minimum Operations to Exceed Threshold Value II",
+    "titleSlug": "minimum-operations-to-exceed-threshold-value-ii"
+  },
+  {
+    "id": "1927530226",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771771932000,
+    "title": "Task Scheduler",
+    "titleSlug": "task-scheduler"
+  },
+  {
+    "id": "1926501043",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771690812000,
+    "title": "Kth Largest Element in an Array",
+    "titleSlug": "kth-largest-element-in-an-array"
+  },
+  {
+    "id": "1926496717",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771690536000,
+    "title": "Kth Largest Element in an Array",
+    "titleSlug": "kth-largest-element-in-an-array"
+  },
+  {
+    "id": "1926258609",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771671870000,
+    "title": "Find K Pairs with Smallest Sums",
+    "titleSlug": "find-k-pairs-with-smallest-sums"
+  },
+  {
+    "id": "1925591441",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771607470000,
+    "title": "Total Cost to Hire K Workers",
+    "titleSlug": "total-cost-to-hire-k-workers"
+  },
+  {
+    "id": "1924530539",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771516502000,
+    "title": "Kth Largest Element in a Stream",
+    "titleSlug": "kth-largest-element-in-a-stream"
+  },
+  {
+    "id": "1923640843",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771440112000,
+    "title": "Top K Frequent Elements",
+    "titleSlug": "top-k-frequent-elements"
+  },
+  {
+    "id": "1922538157",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771355164000,
+    "title": "Last Stone Weight",
+    "titleSlug": "last-stone-weight"
+  },
+  {
+    "id": "1920104764",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771163179000,
+    "title": "Last Stone Weight",
+    "titleSlug": "last-stone-weight"
+  },
+  {
+    "id": "1918899180",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1771072947000,
+    "title": "Remove Stones to Minimize the Total",
+    "titleSlug": "remove-stones-to-minimize-the-total"
+  },
+  {
+    "id": "1917347562",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770923965000,
+    "title": "Find Median from Data Stream",
+    "titleSlug": "find-median-from-data-stream"
+  },
+  {
+    "id": "1917347457",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770923957000,
+    "title": "Find Median from Data Stream",
+    "titleSlug": "find-median-from-data-stream"
+  },
+  {
+    "id": "1915063670",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770750059000,
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length"
+  },
+  {
+    "id": "1913745580",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770656478000,
+    "title": "K Radius Subarray Averages",
+    "titleSlug": "k-radius-subarray-averages"
+  },
+  {
+    "id": "1913435389",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770638643000,
+    "title": "K Radius Subarray Averages",
+    "titleSlug": "k-radius-subarray-averages"
+  },
+  {
+    "id": "1913271075",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770626664000,
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length"
+  },
+  {
+    "id": "1912677770",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770571055000,
+    "title": "Count Subarrays With Fixed Bounds",
+    "titleSlug": "count-subarrays-with-fixed-bounds"
+  },
+  {
+    "id": "1912483516",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770559089000,
+    "title": "Contains Duplicate II",
+    "titleSlug": "contains-duplicate-ii"
+  },
+  {
+    "id": "1912290361",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770544505000,
+    "title": "Minimum Window Substring",
+    "titleSlug": "minimum-window-substring"
+  },
+  {
+    "id": "1911178253",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770461084000,
+    "title": "Subarrays with K Different Integers",
+    "titleSlug": "subarrays-with-k-different-integers"
+  },
+  {
+    "id": "1910307301",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770386285000,
+    "title": "Maximum Points You Can Obtain from Cards",
+    "titleSlug": "maximum-points-you-can-obtain-from-cards"
+  },
+  {
+    "id": "1909362506",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770310365000,
+    "title": "Number of Substrings Containing All Three Characters",
+    "titleSlug": "number-of-substrings-containing-all-three-characters"
+  },
+  {
+    "id": "1908275507",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770227609000,
+    "title": "Count Number of Nice Subarrays",
+    "titleSlug": "count-number-of-nice-subarrays"
+  },
+  {
+    "id": "1907167741",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770145281000,
+    "title": "Binary Subarrays With Sum",
+    "titleSlug": "binary-subarrays-with-sum"
+  },
+  {
+    "id": "1906539425",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770112495000,
+    "title": "Single Number III",
+    "titleSlug": "single-number-iii"
+  },
+  {
+    "id": "1905412232",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1770035197000,
+    "title": "Longest Repeating Character Replacement",
+    "titleSlug": "longest-repeating-character-replacement"
+  },
+  {
+    "id": "1902274125",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769795641000,
+    "title": "Max Consecutive Ones III",
+    "titleSlug": "max-consecutive-ones-iii"
+  },
+  {
+    "id": "1901129986",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769704138000,
+    "title": "Longest Substring Without Repeating Characters",
+    "titleSlug": "longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "1900486691",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769661069000,
+    "title": "Bitwise AND of Numbers Range",
+    "titleSlug": "bitwise-and-of-numbers-range"
+  },
+  {
+    "id": "1898455190",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769509250000,
+    "title": "Single Number II",
+    "titleSlug": "single-number-ii"
+  },
+  {
+    "id": "1895953636",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769310235000,
+    "title": "Rotate Non Negative Elements",
+    "titleSlug": "rotate-non-negative-elements"
+  },
+  {
+    "id": "1895900476",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769308682000,
+    "title": "Minimum Prefix Removal to Make Array Strictly Increasing",
+    "titleSlug": "minimum-prefix-removal-to-make-array-strictly-increasing"
+  },
+  {
+    "id": "1895550979",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769273901000,
+    "title": "Online Stock Span",
+    "titleSlug": "online-stock-span"
+  },
+  {
+    "id": "1895547545",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769273712000,
+    "title": "Online Stock Span",
+    "titleSlug": "online-stock-span"
+  },
+  {
+    "id": "1894642942",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769192522000,
+    "title": "Sliding Window Maximum",
+    "titleSlug": "sliding-window-maximum"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "359226396",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1769095153000,
+    "title": "United We Stand",
+    "titleSlug": "1859/A"
+  },
+  {
+    "id": "1892903951",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769060857000,
+    "title": "Minimum Pair Removal to Sort Array I",
+    "titleSlug": "minimum-pair-removal-to-sort-array-i"
+  },
+  {
+    "id": "1892461312",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1769017747000,
+    "title": "Maximal Rectangle",
+    "titleSlug": "maximal-rectangle"
+  },
+  {
+    "id": "1891039106",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768916108000,
+    "title": "Largest Rectangle in Histogram",
+    "titleSlug": "largest-rectangle-in-histogram"
+  },
+  {
+    "id": "1890225034",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768846724000,
+    "title": "Remove K Digits",
+    "titleSlug": "remove-k-digits"
+  },
+  {
+    "id": "1888740836",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768729180000,
+    "title": "Remove K Digits",
+    "titleSlug": "remove-k-digits"
+  },
+  {
+    "id": "1888382265",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768704265000,
+    "title": "Vowel-Consonant Score",
+    "titleSlug": "vowel-consonant-score"
+  },
+  {
+    "id": "1887873096",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768661680000,
+    "title": "Best Reachable Tower",
+    "titleSlug": "best-reachable-tower"
+  },
+  {
+    "id": "1887109460",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768588040000,
+    "title": "Sum of Subarray Ranges",
+    "titleSlug": "sum-of-subarray-ranges"
+  },
+  {
+    "id": "1887104607",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768587774000,
+    "title": "Sum of Subarray Ranges",
+    "titleSlug": "sum-of-subarray-ranges"
+  },
+  {
+    "id": "1886134438",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768501566000,
+    "title": "Asteroid Collision",
+    "titleSlug": "asteroid-collision"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "358001227",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1768500090000,
+    "title": "Sequence Game",
+    "titleSlug": "1862/B"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "357928995",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1768467360000,
+    "title": "Ambitious Kid",
+    "titleSlug": "1866/A"
+  },
+  {
+    "id": "1885143985",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768415593000,
+    "title": "Sum of Subarray Minimums",
+    "titleSlug": "sum-of-subarray-minimums"
+  },
+  {
+    "id": "1883169933",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768245736000,
+    "title": "Count Primes",
+    "titleSlug": "count-primes"
+  },
+  {
+    "id": "1880724461",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1768051050000,
+    "title": "Minimum Bit Flips to Convert Number",
+    "titleSlug": "minimum-bit-flips-to-convert-number"
+  },
+  {
+    "id": "1880103520",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1767985694000,
+    "title": "Divide Two Integers",
+    "titleSlug": "divide-two-integers"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "355254946",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1766816907000,
+    "title": "Target Practice",
+    "titleSlug": "1873/C"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "355177803",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1766755918000,
+    "title": "Goals of Victory",
+    "titleSlug": "1877/A"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "355094562",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1766688866000,
+    "title": "How Much Does Daytona Cost?",
+    "titleSlug": "1878/A"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "355008841",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1766640422000,
+    "title": "Don't Try to Count",
+    "titleSlug": "1881/A"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "354982179",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1766602249000,
+    "title": "Doremy's Paint 3",
+    "titleSlug": "1890/A"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "354858265",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1766515231000,
+    "title": "Jagged Swaps",
+    "titleSlug": "1896/A"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "354851329",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1766511568000,
+    "title": "Game with Integers",
+    "titleSlug": "1899/A"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "354690252",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1766494894000,
+    "title": "Cover in Water",
+    "titleSlug": "1900/A"
+  },
+  {
+    "id": "1834475498",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1763574124000,
+    "title": "Keep Multiplying Found Values by Two",
+    "titleSlug": "keep-multiplying-found-values-by-two"
+  },
+  {
+    "id": "1833608673",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1763498428000,
+    "title": "Trapping Rain Water",
+    "titleSlug": "trapping-rain-water"
+  },
+  {
+    "id": "1833591512",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1763496790000,
+    "title": "1-bit and 2-bit Characters",
+    "titleSlug": "1-bit-and-2-bit-characters"
+  },
+  {
+    "id": "1832623701",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1763404902000,
+    "title": "Check If All 1's Are at Least Length K Places Away",
+    "titleSlug": "check-if-all-1s-are-at-least-length-k-places-away"
+  },
+  {
+    "id": "1831595645",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1763316845000,
+    "title": "Number of Substrings With Only 1s",
+    "titleSlug": "number-of-substrings-with-only-1s"
+  },
+  {
+    "id": "1830592172",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1763230147000,
+    "title": "Count the Number of Substrings With Dominant Ones",
+    "titleSlug": "count-the-number-of-substrings-with-dominant-ones"
+  },
+  {
+    "id": "1830400342",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1763215133000,
+    "title": "Next Greater Element II",
+    "titleSlug": "next-greater-element-ii"
+  },
+  {
+    "id": "1829821147",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1763143780000,
+    "title": "Increment Submatrices by One",
+    "titleSlug": "increment-submatrices-by-one"
+  },
+  {
+    "id": "1828995796",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1763057802000,
+    "title": "Maximum Number of Operations to Move Ones to the End",
+    "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end"
+  },
+  {
+    "id": "1827782012",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762949170000,
+    "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+    "titleSlug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1"
+  },
+  {
+    "id": "1827194186",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762886284000,
+    "title": "Ones and Zeroes",
+    "titleSlug": "ones-and-zeroes"
+  },
+  {
+    "id": "1825950663",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762777768000,
+    "title": "Minimum Operations to Convert All Elements to Zero",
+    "titleSlug": "minimum-operations-to-convert-all-elements-to-zero"
+  },
+  {
+    "id": "1824989885",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762682671000,
+    "title": "Count Operations to Obtain Zero",
+    "titleSlug": "count-operations-to-obtain-zero"
+  },
+  {
+    "id": "1824497299",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762636474000,
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "titleSlug": "minimum-one-bit-operations-to-make-integers-zero"
+  },
+  {
+    "id": "1823527129",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762540145000,
+    "title": "Maximize the Minimum Powered City",
+    "titleSlug": "maximize-the-minimum-powered-city"
+  },
+  {
+    "id": "1822599234",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762447885000,
+    "title": "Power Grid Maintenance",
+    "titleSlug": "power-grid-maintenance"
+  },
+  {
+    "id": "1821786949",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762367107000,
+    "title": "Find X-Sum of All K-Long Subarrays II",
+    "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii"
+  },
+  {
+    "id": "1820587095",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762266412000,
+    "title": "Next Greater Element I",
+    "titleSlug": "next-greater-element-i"
+  },
+  {
+    "id": "1820582044",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762266042000,
+    "title": "Next Greater Element I",
+    "titleSlug": "next-greater-element-i"
+  },
+  {
+    "id": "1820533726",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762262410000,
+    "title": "Find X-Sum of All K-Long Subarrays I",
+    "titleSlug": "find-x-sum-of-all-k-long-subarrays-i"
+  },
+  {
+    "id": "1819350422",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762157435000,
+    "title": "Min Stack",
+    "titleSlug": "min-stack"
+  },
+  {
+    "id": "1819334454",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762155849000,
+    "title": "Minimum Time to Make Rope Colorful",
+    "titleSlug": "minimum-time-to-make-rope-colorful"
+  },
+  {
+    "id": "1818859380",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762105717000,
+    "title": "Implement Queue using Stacks",
+    "titleSlug": "implement-queue-using-stacks"
+  },
+  {
+    "id": "1818847798",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762104939000,
+    "title": "Implement Stack using Queues",
+    "titleSlug": "implement-stack-using-queues"
+  },
+  {
+    "id": "1818495726",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1762075444000,
+    "title": "Count Unguarded Cells in the Grid",
+    "titleSlug": "count-unguarded-cells-in-the-grid"
+  },
+  {
+    "id": "1817561945",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1761991655000,
+    "title": "Delete Nodes From Linked List Present in Array",
+    "titleSlug": "delete-nodes-from-linked-list-present-in-array"
+  },
+  {
+    "id": "1817101798",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1761935109000,
+    "title": "The Two Sneaky Numbers of Digitville",
+    "titleSlug": "the-two-sneaky-numbers-of-digitville"
+  },
+  {
+    "id": "1816226555",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1761848832000,
+    "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+    "titleSlug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array"
+  },
+  {
+    "id": "1816181496",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1761846013000,
+    "title": "Valid Parentheses",
+    "titleSlug": "valid-parentheses"
+  },
+  {
+    "id": "1815149217",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1761751930000,
+    "title": "Valid Parentheses",
+    "titleSlug": "valid-parentheses"
+  },
+  {
+    "id": "1813488395",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1761599646000,
+    "title": "Expression Add Operators",
+    "titleSlug": "expression-add-operators"
+  },
+  {
+    "id": "1813165411",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1761571516000,
+    "title": "Sudoku Solver",
+    "titleSlug": "sudoku-solver"
+  },
+  {
+    "id": "1809771489",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1761248209000,
+    "title": "Word Break",
+    "titleSlug": "word-break"
+  },
+  {
+    "id": "1806892864",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1760979840000,
+    "title": "Word Search",
+    "titleSlug": "word-search"
+  },
+  {
+    "id": "1804550263",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1760735085000,
+    "title": "Palindrome Partitioning",
+    "titleSlug": "palindrome-partitioning"
+  },
+  {
+    "id": "1801706416",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1760465933000,
+    "title": "Combination Sum III",
+    "titleSlug": "combination-sum-iii"
+  },
+  {
+    "id": "1799624726",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1760293207000,
+    "title": "Combination Sum III",
+    "titleSlug": "combination-sum-iii"
+  },
+  {
+    "id": "1798693283",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1760212279000,
+    "title": "Two Sum",
+    "titleSlug": "two-sum"
+  },
+  {
+    "id": "1796649379",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1760033459000,
+    "title": "Generate Parentheses",
+    "titleSlug": "generate-parentheses"
+  },
+  {
+    "id": "1796616520",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1760031676000,
+    "title": "Generate Parentheses",
+    "titleSlug": "generate-parentheses"
+  },
+  {
+    "id": "1795671386",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1759948780000,
+    "title": "Count Good Numbers",
+    "titleSlug": "count-good-numbers"
+  },
+  {
+    "id": "1795670903",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1759948749000,
+    "title": "Count Good Numbers",
+    "titleSlug": "count-good-numbers"
+  },
+  {
+    "id": "1794486055",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1759858503000,
+    "title": "Count Good Numbers",
+    "titleSlug": "count-good-numbers"
+  },
+  {
+    "id": "1793520974",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1759779627000,
+    "title": "Pow(x, n)",
+    "titleSlug": "powx-n"
+  },
+  {
+    "id": "1792428176",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1759686842000,
+    "title": "String to Integer (atoi)",
+    "titleSlug": "string-to-integer-atoi"
+  },
+  {
+    "id": "1791751398",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1759636575000,
+    "title": "Longest Palindromic Substring",
+    "titleSlug": "longest-palindromic-substring"
+  },
+  {
+    "id": "1789548974",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1759432722000,
+    "title": "Water Bottles II",
+    "titleSlug": "water-bottles-ii"
+  },
+  {
+    "id": "1787648590",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1759266672000,
+    "title": "Sum of Beauty of All Substrings",
+    "titleSlug": "sum-of-beauty-of-all-substrings"
+  },
+  {
+    "id": "1787317262",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1759242579000,
+    "title": "Roman to Integer",
+    "titleSlug": "roman-to-integer"
+  },
+  {
+    "id": "1786606730",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1759174287000,
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "titleSlug": "maximum-nesting-depth-of-the-parentheses"
+  },
+  {
+    "id": "1785619640",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1759085337000,
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "titleSlug": "maximum-nesting-depth-of-the-parentheses"
+  },
+  {
+    "id": "1784587382",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1759002119000,
+    "title": "Sort Characters By Frequency",
+    "titleSlug": "sort-characters-by-frequency"
+  },
+  {
+    "id": "1783634637",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1758916547000,
+    "title": "Sort Characters By Frequency",
+    "titleSlug": "sort-characters-by-frequency"
+  },
+  {
+    "id": "1782584708",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1758823279000,
+    "title": "Valid Anagram",
+    "titleSlug": "valid-anagram"
+  },
+  {
+    "id": "1782374242",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1758810447000,
+    "title": "Rotate String",
+    "titleSlug": "rotate-string"
+  },
+  {
+    "difficulty": "Medium",
+    "id": "340219007",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 1500,
+    "statusDisplay": "Accepted",
+    "timestamp": 1758729581000,
+    "title": "Greetings",
+    "titleSlug": "1915/F"
+  },
+  {
+    "id": "1781306170",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1758723091000,
+    "title": "Longest Common Prefix",
+    "titleSlug": "longest-common-prefix"
+  },
+  {
+    "id": "1781305915",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1758723074000,
+    "title": "Longest Common Prefix",
+    "titleSlug": "longest-common-prefix"
+  },
+  {
+    "id": "1780528496",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1758652583000,
+    "title": "Largest Odd Number in String",
+    "titleSlug": "largest-odd-number-in-string"
+  },
+  {
+    "id": "1775295235",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1758218087000,
+    "title": "Reverse Words in a String",
+    "titleSlug": "reverse-words-in-a-string"
+  },
+  {
+    "id": "1774288083",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1758137617000,
+    "title": "Reverse Words in a String",
+    "titleSlug": "reverse-words-in-a-string"
+  },
+  {
+    "id": "1774021949",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1758123305000,
+    "title": "Remove Outermost Parentheses",
+    "titleSlug": "remove-outermost-parentheses"
+  },
+  {
+    "id": "1767113237",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1757591859000,
+    "title": "Valid Palindrome",
+    "titleSlug": "valid-palindrome"
+  },
+  {
+    "id": "1728563549",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1754713960000,
+    "title": "Power of Two",
+    "titleSlug": "power-of-two"
+  },
+  {
+    "id": "1706249411",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1753117858000,
+    "title": "Find a Peak Element II",
+    "titleSlug": "find-a-peak-element-ii"
+  },
+  {
+    "id": "1704910073",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1753025457000,
+    "title": "Find a Peak Element II",
+    "titleSlug": "find-a-peak-element-ii"
+  },
+  {
+    "id": "1703933677",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1752949883000,
+    "title": "Search a 2D Matrix II",
+    "titleSlug": "search-a-2d-matrix-ii"
+  },
+  {
+    "id": "1702662695",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1752858081000,
+    "title": "Search a 2D Matrix",
+    "titleSlug": "search-a-2d-matrix"
+  },
+  {
+    "id": "1701435635",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1752765884000,
+    "title": "Median of Two Sorted Arrays",
+    "titleSlug": "median-of-two-sorted-arrays"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "328543913",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1752245395000,
+    "title": "Line Trip",
+    "titleSlug": "1901/A"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "328226230",
+    "lang": "C++17 (GCC 7-32)",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1752063022000,
+    "title": "Halloumi Boxes",
+    "titleSlug": "1903/A"
+  },
+  {
+    "id": "1681768614",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1751305812000,
+    "title": "Kth Missing Positive Number",
+    "titleSlug": "kth-missing-positive-number"
+  },
+  {
+    "id": "1677537940",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1750960944000,
+    "title": "Capacity To Ship Packages Within D Days",
+    "titleSlug": "capacity-to-ship-packages-within-d-days"
+  },
+  {
+    "id": "1676350585",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1750873438000,
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "titleSlug": "find-the-smallest-divisor-given-a-threshold"
+  },
+  {
+    "id": "1676345993",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1750873212000,
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "titleSlug": "find-the-smallest-divisor-given-a-threshold"
+  },
+  {
+    "id": "1675003324",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1750775591000,
+    "title": "Minimum Number of Days to Make m Bouquets",
+    "titleSlug": "minimum-number-of-days-to-make-m-bouquets"
+  },
+  {
+    "id": "1672953495",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1750616540000,
+    "title": "Koko Eating Bananas",
+    "titleSlug": "koko-eating-bananas"
+  },
+  {
+    "id": "1671836690",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1750527272000,
+    "title": "Find Peak Element",
+    "titleSlug": "find-peak-element"
+  },
+  {
+    "id": "1669735628",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1750356368000,
+    "title": "Single Element in a Sorted Array",
+    "titleSlug": "single-element-in-a-sorted-array"
+  },
+  {
+    "id": "1658957836",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1749493200000,
+    "title": "Find Minimum in Rotated Sorted Array",
+    "titleSlug": "find-minimum-in-rotated-sorted-array"
+  },
+  {
+    "id": "1612782960",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1745173016000,
+    "title": "Search in Rotated Sorted Array II",
+    "titleSlug": "search-in-rotated-sorted-array-ii"
+  },
+  {
+    "id": "1611719582",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1745084554000,
+    "title": "Search in Rotated Sorted Array",
+    "titleSlug": "search-in-rotated-sorted-array"
+  },
+  {
+    "id": "1611545204",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1745071685000,
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "titleSlug": "find-first-and-last-position-of-element-in-sorted-array"
+  },
+  {
+    "id": "1610842957",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1745003662000,
+    "title": "Search Insert Position",
+    "titleSlug": "search-insert-position"
+  },
+  {
+    "id": "1609860181",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1744918536000,
+    "title": "Maximum Product Subarray",
+    "titleSlug": "maximum-product-subarray"
+  },
+  {
+    "id": "1608779261",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1744824926000,
+    "title": "Maximum Product Subarray",
+    "titleSlug": "maximum-product-subarray"
+  },
+  {
+    "id": "1607762501",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1744736916000,
+    "title": "Reverse Pairs",
+    "titleSlug": "reverse-pairs"
+  },
+  {
+    "id": "1605689402",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1744554796000,
+    "title": "Merge Sorted Array",
+    "titleSlug": "merge-sorted-array"
+  },
+  {
+    "id": "1605688447",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1744554727000,
+    "title": "Merge Sorted Array",
+    "titleSlug": "merge-sorted-array"
+  },
+  {
+    "id": "1604816816",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1744478846000,
+    "title": "Merge Intervals",
+    "titleSlug": "merge-intervals"
+  },
+  {
+    "id": "1602845340",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1744302080000,
+    "title": "4Sum",
+    "titleSlug": "4sum"
+  },
+  {
+    "id": "1597794136",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1743881367000,
+    "title": "3Sum",
+    "titleSlug": "3sum"
+  },
+  {
+    "id": "1596898012",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1743796108000,
+    "title": "3Sum",
+    "titleSlug": "3sum"
+  },
+  {
+    "id": "1594711212",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1743615870000,
+    "title": "Majority Element II",
+    "titleSlug": "majority-element-ii"
+  },
+  {
+    "id": "1593204050",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1743517424000,
+    "title": "Pascal's Triangle",
+    "titleSlug": "pascals-triangle"
+  },
+  {
+    "id": "1554185496",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1740424968000,
+    "title": "Subarray Sum Equals K",
+    "titleSlug": "subarray-sum-equals-k"
+  },
+  {
+    "id": "1553094563",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1740336940000,
+    "title": "Subarray Sum Equals K",
+    "titleSlug": "subarray-sum-equals-k"
+  },
+  {
+    "id": "1552052844",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1740253581000,
+    "title": "Spiral Matrix",
+    "titleSlug": "spiral-matrix"
+  },
+  {
+    "id": "1551063283",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1740165555000,
+    "title": "Rotate Image",
+    "titleSlug": "rotate-image"
+  },
+  {
+    "id": "1549949097",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1740075332000,
+    "title": "Set Matrix Zeroes",
+    "titleSlug": "set-matrix-zeroes"
+  },
+  {
+    "id": "1548856257",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1739989971000,
+    "title": "Set Matrix Zeroes",
+    "titleSlug": "set-matrix-zeroes"
+  },
+  {
+    "id": "1547418995",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1739886055000,
+    "title": "Longest Consecutive Sequence",
+    "titleSlug": "longest-consecutive-sequence"
+  },
+  {
+    "id": "1547412230",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1739885607000,
+    "title": "Longest Consecutive Sequence",
+    "titleSlug": "longest-consecutive-sequence"
+  },
+  {
+    "id": "1546533056",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1739815665000,
+    "title": "Next Permutation",
+    "titleSlug": "next-permutation"
+  },
+  {
+    "id": "1545465415",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1739734741000,
+    "title": "Rearrange Array Elements by Sign",
+    "titleSlug": "rearrange-array-elements-by-sign"
+  },
+  {
+    "id": "1545114195",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1739712809000,
+    "title": "Best Time to Buy and Sell Stock",
+    "titleSlug": "best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "1544947344",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1739700527000,
+    "title": "Maximum Subarray",
+    "titleSlug": "maximum-subarray"
+  },
+  {
+    "id": "1544945800",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1739700409000,
+    "title": "Maximum Subarray",
+    "titleSlug": "maximum-subarray"
+  },
+  {
+    "id": "1543176806",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1739556764000,
+    "title": "Majority Element",
+    "titleSlug": "majority-element"
+  },
+  {
+    "id": "1542045837",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1739468332000,
+    "title": "Sort Colors",
+    "titleSlug": "sort-colors"
+  },
+  {
+    "id": "1539652631",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1739299539000,
+    "title": "Single Number",
+    "titleSlug": "single-number"
+  },
+  {
+    "id": "1526771490",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1738353287000,
+    "title": "Missing Number",
+    "titleSlug": "missing-number"
+  },
+  {
+    "id": "1524687158",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1738176753000,
+    "title": "Palindrome Linked List",
+    "titleSlug": "palindrome-linked-list"
+  },
+  {
+    "id": "1521362583",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1737915390000,
+    "title": "Linked List Cycle II",
+    "titleSlug": "linked-list-cycle-ii"
+  },
+  {
+    "id": "1520921507",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1737882034000,
+    "title": "Palindrome Linked List",
+    "titleSlug": "palindrome-linked-list"
+  },
+  {
+    "id": "1520921187",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1737882004000,
+    "title": "Palindrome Linked List",
+    "titleSlug": "palindrome-linked-list"
+  },
+  {
+    "id": "1519765138",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1737788608000,
+    "title": "Reverse Linked List",
+    "titleSlug": "reverse-linked-list"
+  },
+  {
+    "id": "1519085449",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1737727655000,
+    "title": "Linked List Cycle",
+    "titleSlug": "linked-list-cycle"
+  },
+  {
+    "id": "1518224368",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1737653443000,
+    "title": "Middle of the Linked List",
+    "titleSlug": "middle-of-the-linked-list"
+  },
+  {
+    "id": "1472846402",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1733593809000,
+    "title": "Minimum Limit of Balls in a Bag",
+    "titleSlug": "minimum-limit-of-balls-in-a-bag"
+  },
+  {
+    "id": "1453770478",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1731698262000,
+    "title": "Delete Node in a Linked List",
+    "titleSlug": "delete-node-in-a-linked-list"
+  },
+  {
+    "id": "1431780388",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1729711712000,
+    "title": "N-Queens",
+    "titleSlug": "n-queens"
+  },
+  {
+    "id": "1430704629",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1729620693000,
+    "title": "N-Queens",
+    "titleSlug": "n-queens"
+  },
+  {
+    "id": "1430601939",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1729615134000,
+    "title": "Letter Combinations of a Phone Number",
+    "titleSlug": "letter-combinations-of-a-phone-number"
+  },
+  {
+    "id": "1429641906",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1729535771000,
+    "title": "Combination Sum II",
+    "titleSlug": "combination-sum-ii"
+  },
+  {
+    "id": "1428235134",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1729419358000,
+    "title": "Combinations",
+    "titleSlug": "combinations"
+  },
+  {
+    "id": "1428201498",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1729416277000,
+    "title": "Permutations II",
+    "titleSlug": "permutations-ii"
+  },
+  {
+    "id": "1427619985",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1729366631000,
+    "title": "Permutations",
+    "titleSlug": "permutations"
+  },
+  {
+    "id": "1425785063",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1729196703000,
+    "title": "Subsets II",
+    "titleSlug": "subsets-ii"
+  },
+  {
+    "id": "1425772759",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1729195626000,
+    "title": "Subsets",
+    "titleSlug": "subsets"
+  },
+  {
+    "id": "1424401335",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1729092775000,
+    "title": "Combination Sum",
+    "titleSlug": "combination-sum"
+  },
+  {
+    "id": "1423016472",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1728985370000,
+    "title": "Separate Black and White Balls",
+    "titleSlug": "separate-black-and-white-balls"
+  },
+  {
+    "id": "1423015254",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1728985274000,
+    "title": "Separate Black and White Balls",
+    "titleSlug": "separate-black-and-white-balls"
+  },
+  {
+    "id": "1416756131",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1728459750000,
+    "title": "Minimum Add to Make Parentheses Valid",
+    "titleSlug": "minimum-add-to-make-parentheses-valid"
+  },
+  {
+    "id": "1414042692",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1728242574000,
+    "title": "Sentence Similarity III",
+    "titleSlug": "sentence-similarity-iii"
+  },
+  {
+    "id": "1414042595",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1728242567000,
+    "title": "Sentence Similarity III",
+    "titleSlug": "sentence-similarity-iii"
+  },
+  {
+    "id": "1414042319",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1728242548000,
+    "title": "Sentence Similarity III",
+    "titleSlug": "sentence-similarity-iii"
+  },
+  {
+    "id": "1413619846",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1728214205000,
+    "title": "Sentence Similarity III",
+    "titleSlug": "sentence-similarity-iii"
+  },
+  {
+    "id": "1388103959",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1726171876000,
+    "title": "Move Zeroes",
+    "titleSlug": "move-zeroes"
+  },
+  {
+    "id": "1388102604",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1726171761000,
+    "title": "Move Zeroes",
+    "titleSlug": "move-zeroes"
+  },
+  {
+    "id": "1386974330",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1726084939000,
+    "title": "Move Zeroes",
+    "titleSlug": "move-zeroes"
+  },
+  {
+    "id": "1385817048",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1725997877000,
+    "title": "Find Pivot Index",
+    "titleSlug": "find-pivot-index"
+  },
+  {
+    "id": "1384733965",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1725917329000,
+    "title": "Rotate Array",
+    "titleSlug": "rotate-array"
+  },
+  {
+    "id": "1383130436",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1725793851000,
+    "title": "Rotate Array",
+    "titleSlug": "rotate-array"
+  },
+  {
+    "id": "1383111491",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1725792372000,
+    "title": "Rotate Array",
+    "titleSlug": "rotate-array"
+  },
+  {
+    "id": "1382475483",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1725740706000,
+    "title": "Remove Duplicates from Sorted Array",
+    "titleSlug": "remove-duplicates-from-sorted-array"
+  },
+  {
+    "id": "1382474209",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1725740598000,
+    "title": "Remove Duplicates from Sorted Array",
+    "titleSlug": "remove-duplicates-from-sorted-array"
+  },
+  {
+    "id": "1381997941",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1725708408000,
+    "title": "Check if Array Is Sorted and Rotated",
+    "titleSlug": "check-if-array-is-sorted-and-rotated"
+  },
+  {
+    "id": "1367082179",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1724528602000,
+    "title": "Split Array Largest Sum",
+    "titleSlug": "split-array-largest-sum"
+  },
+  {
+    "id": "1361344798",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1724071963000,
+    "title": "Find Pivot Index",
+    "titleSlug": "find-pivot-index"
+  },
+  {
+    "id": "1360407033",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1723993182000,
+    "title": "Peak Index in a Mountain Array",
+    "titleSlug": "peak-index-in-a-mountain-array"
+  },
+  {
+    "id": "1351980656",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1723375254000,
+    "title": "Fibonacci Number",
+    "titleSlug": "fibonacci-number"
+  },
+  {
+    "id": "1344641389",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1722799831000,
+    "title": "Range Sum of Sorted Subarray Sums",
+    "titleSlug": "range-sum-of-sorted-subarray-sums"
+  },
+  {
+    "id": "1343367498",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1722706813000,
+    "title": "Find All Duplicates in an Array",
+    "titleSlug": "find-all-duplicates-in-an-array"
+  },
+  {
+    "id": "1329891405",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1721674529000,
+    "title": "Valid Boomerang",
+    "titleSlug": "valid-boomerang"
+  },
+  {
+    "id": "1329844190",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1721671909000,
+    "title": "Sort the People",
+    "titleSlug": "sort-the-people"
+  },
+  {
+    "id": "1329830668",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1721671244000,
+    "title": "Sort the People",
+    "titleSlug": "sort-the-people"
+  },
+  {
+    "id": "1329813915",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1721670439000,
+    "title": "Sort the People",
+    "titleSlug": "sort-the-people"
+  },
+  {
+    "id": "1319964791",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1720894786000,
+    "title": "Max Consecutive Ones",
+    "titleSlug": "max-consecutive-ones"
+  },
+  {
+    "id": "1308395746",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1720020234000,
+    "title": "Number of 1 Bits",
+    "titleSlug": "number-of-1-bits"
+  },
+  {
+    "id": "1308387581",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1720019753000,
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer"
+  },
+  {
+    "id": "1296340540",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1719040063000,
+    "title": "Complement of Base 10 Integer",
+    "titleSlug": "complement-of-base-10-integer"
+  },
+  {
+    "id": "1272430774",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1717079108000,
+    "title": "Reverse Integer",
+    "titleSlug": "reverse-integer"
+  },
+  {
+    "id": "1271718239",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1717008424000,
+    "title": "Palindrome Number",
+    "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "1271679848",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1717005928000,
+    "title": "Reverse Integer",
+    "titleSlug": "reverse-integer"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "256686407",
+    "lang": "Java 21",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1713118449000,
+    "title": "Special Characters",
+    "titleSlug": "1948/A"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "256684759",
+    "lang": "Java 21",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1713117571000,
+    "title": "Special Characters",
+    "titleSlug": "1948/A"
+  },
+  {
+    "id": "1182274831",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1708539670000,
+    "title": "Find Numbers with Even Number of Digits",
+    "titleSlug": "find-numbers-with-even-number-of-digits"
+  },
+  {
+    "id": "1168991924",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1707326855000,
+    "title": "Best Time to Buy and Sell Stock II",
+    "titleSlug": "best-time-to-buy-and-sell-stock-ii"
+  },
+  {
+    "id": "1165185792",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1706989129000,
+    "title": "Build Array from Permutation",
+    "titleSlug": "build-array-from-permutation"
+  },
+  {
+    "id": "1165168125",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1706987612000,
+    "title": "Palindrome Number",
+    "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "1165167030",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1706987522000,
+    "title": "Palindrome Number",
+    "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "1165166335",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1706987466000,
+    "title": "Palindrome Number",
+    "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "1165160144",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1706986954000,
+    "title": "Palindrome Number",
+    "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "1165159951",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1706986940000,
+    "title": "Palindrome Number",
+    "titleSlug": "palindrome-number"
+  },
+  {
+    "id": "1161168962",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1706630302000,
+    "title": "Binary Search",
+    "titleSlug": "binary-search"
+  },
+  {
+    "id": "1160809676",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1706598960000,
+    "title": "Binary Search",
+    "titleSlug": "binary-search"
+  },
+  {
+    "id": "1158134542",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1706348626000,
+    "title": "Richest Customer Wealth",
+    "titleSlug": "richest-customer-wealth"
+  },
+  {
+    "id": "1158112644",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1706346421000,
+    "title": "Find Numbers with Even Number of Digits",
+    "titleSlug": "find-numbers-with-even-number-of-digits"
+  },
+  {
+    "id": "1158112331",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1706346386000,
+    "title": "Find Numbers with Even Number of Digits",
+    "titleSlug": "find-numbers-with-even-number-of-digits"
+  },
+  {
+    "id": "1151790972",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1705770377000,
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer"
+  },
+  {
+    "id": "1147993671",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1705423312000,
+    "title": "Two Sum",
+    "titleSlug": "two-sum"
+  }
+]
