@@ -1,2664 +1,2466 @@
 [
   {
     "id": "2166504933",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1791475888000,
     "title": "Binary Tree Zigzag Level Order Traversal",
-    "titleSlug": "binary-tree-zigzag-level-order-traversal"
+    "titleSlug": "binary-tree-zigzag-level-order-traversal",
+    "timestamp": 1791475888000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2165448162",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1791387582000,
     "title": "Symmetric Tree",
-    "titleSlug": "symmetric-tree"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "393560117",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1791386173000,
-    "title": "Array Coloring",
-    "titleSlug": "1857/A"
+    "titleSlug": "symmetric-tree",
+    "timestamp": 1791387582000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2164581424",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1791309925000,
     "title": "Binary Tree Maximum Path Sum",
-    "titleSlug": "binary-tree-maximum-path-sum"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "392981530",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1790958795000,
-    "title": "Buttons",
-    "titleSlug": "1858/A"
+    "titleSlug": "binary-tree-maximum-path-sum",
+    "timestamp": 1791309925000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2160338964",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1790958504000,
     "title": "Generate Parentheses",
-    "titleSlug": "generate-parentheses"
+    "titleSlug": "generate-parentheses",
+    "timestamp": 1790958504000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2160337622",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1790958425000,
     "title": "Two Sum",
-    "titleSlug": "two-sum"
+    "titleSlug": "two-sum",
+    "timestamp": 1790958425000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2137806552",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1789062483000,
     "title": "Diameter of Binary Tree",
-    "titleSlug": "diameter-of-binary-tree"
+    "titleSlug": "diameter-of-binary-tree",
+    "timestamp": 1789062483000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2075850179",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1784640073000,
     "title": "Diameter of Binary Tree",
-    "titleSlug": "diameter-of-binary-tree"
+    "titleSlug": "diameter-of-binary-tree",
+    "timestamp": 1784640073000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2075849859",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1784640055000,
     "title": "Diameter of Binary Tree",
-    "titleSlug": "diameter-of-binary-tree"
+    "titleSlug": "diameter-of-binary-tree",
+    "timestamp": 1784640055000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2071996164",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1784364480000,
     "title": "Balanced Binary Tree",
-    "titleSlug": "balanced-binary-tree"
+    "titleSlug": "balanced-binary-tree",
+    "timestamp": 1784364480000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2064067628",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1783787455000,
     "title": "Maximum Depth of Binary Tree",
-    "titleSlug": "maximum-depth-of-binary-tree"
+    "titleSlug": "maximum-depth-of-binary-tree",
+    "timestamp": 1783787455000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2060195107",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1783496199000,
     "title": "Binary Tree Level Order Traversal",
-    "titleSlug": "binary-tree-level-order-traversal"
+    "titleSlug": "binary-tree-level-order-traversal",
+    "timestamp": 1783496199000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2058234052",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1783352847000,
     "title": "Binary Tree Postorder Traversal",
-    "titleSlug": "binary-tree-postorder-traversal"
+    "titleSlug": "binary-tree-postorder-traversal",
+    "timestamp": 1783352847000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2058198370",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1783350971000,
     "title": "Binary Tree Inorder Traversal",
-    "titleSlug": "binary-tree-inorder-traversal"
+    "titleSlug": "binary-tree-inorder-traversal",
+    "timestamp": 1783350971000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2057105839",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1783268223000,
     "title": "Binary Tree Preorder Traversal",
-    "titleSlug": "binary-tree-preorder-traversal"
+    "titleSlug": "binary-tree-preorder-traversal",
+    "timestamp": 1783268223000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2019060012",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1780313907000,
     "title": "Best Time to Buy and Sell Stock using Strategy",
-    "titleSlug": "best-time-to-buy-and-sell-stock-using-strategy"
+    "titleSlug": "best-time-to-buy-and-sell-stock-using-strategy",
+    "timestamp": 1780313907000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2017655949",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1780191928000,
     "title": "Fruit Into Baskets",
-    "titleSlug": "fruit-into-baskets"
+    "titleSlug": "fruit-into-baskets",
+    "timestamp": 1780191928000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "2004104662",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1778876469000,
     "title": "Maximize the Confusion of an Exam",
-    "titleSlug": "maximize-the-confusion-of-an-exam"
+    "titleSlug": "maximize-the-confusion-of-an-exam",
+    "timestamp": 1778876469000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1998159179",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1778247840000,
     "title": "Most Profit Assigning Work",
-    "titleSlug": "most-profit-assigning-work"
+    "titleSlug": "most-profit-assigning-work",
+    "timestamp": 1778247840000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1996058786",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1778004218000,
     "title": "Most Profit Assigning Work",
-    "titleSlug": "most-profit-assigning-work"
+    "titleSlug": "most-profit-assigning-work",
+    "timestamp": 1778004218000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1994401245",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1777831386000,
     "title": "Most Profit Assigning Work",
-    "titleSlug": "most-profit-assigning-work"
+    "titleSlug": "most-profit-assigning-work",
+    "timestamp": 1777831386000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1993482165",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1777740093000,
     "title": "Magnetic Force Between Two Balls",
-    "titleSlug": "magnetic-force-between-two-balls"
+    "titleSlug": "magnetic-force-between-two-balls",
+    "timestamp": 1777740093000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1992761744",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1777656475000,
     "title": "Number of Flowers in Full Bloom",
-    "titleSlug": "number-of-flowers-in-full-bloom"
+    "titleSlug": "number-of-flowers-in-full-bloom",
+    "timestamp": 1777656475000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1989394949",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1777294437000,
     "title": "Magnetic Force Between Two Balls",
-    "titleSlug": "magnetic-force-between-two-balls"
+    "titleSlug": "magnetic-force-between-two-balls",
+    "timestamp": 1777294437000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1988704980",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1777215028000,
     "title": "Minimum Time to Complete Trips",
-    "titleSlug": "minimum-time-to-complete-trips"
+    "titleSlug": "minimum-time-to-complete-trips",
+    "timestamp": 1777215028000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1988412746",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1777186003000,
     "title": "Shortest Path in a Grid with Obstacles Elimination",
-    "titleSlug": "shortest-path-in-a-grid-with-obstacles-elimination"
+    "titleSlug": "shortest-path-in-a-grid-with-obstacles-elimination",
+    "timestamp": 1777186003000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1987646106",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1777113419000,
     "title": "Image Overlap",
-    "titleSlug": "image-overlap"
+    "titleSlug": "image-overlap",
+    "timestamp": 1777113419000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1987646046",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1777113413000,
     "title": "Image Overlap",
-    "titleSlug": "image-overlap"
+    "titleSlug": "image-overlap",
+    "timestamp": 1777113413000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1987216410",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1777054109000,
     "title": "Continuous Subarray Sum",
-    "titleSlug": "continuous-subarray-sum"
+    "titleSlug": "continuous-subarray-sum",
+    "timestamp": 1777054109000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1985353768",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1776865370000,
     "title": "Continuous Subarray Sum",
-    "titleSlug": "continuous-subarray-sum"
+    "titleSlug": "continuous-subarray-sum",
+    "timestamp": 1776865370000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1985089855",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1776839898000,
     "title": "Set Mismatch",
-    "titleSlug": "set-mismatch"
+    "titleSlug": "set-mismatch",
+    "timestamp": 1776839898000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1984746929",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1776796516000,
     "title": "Largest Perimeter Triangle",
-    "titleSlug": "largest-perimeter-triangle"
+    "titleSlug": "largest-perimeter-triangle",
+    "timestamp": 1776796516000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1984487586",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1776779039000,
     "title": "Increasing Triplet Subsequence",
-    "titleSlug": "increasing-triplet-subsequence"
+    "titleSlug": "increasing-triplet-subsequence",
+    "timestamp": 1776779039000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1983734364",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1776702026000,
     "title": "Toeplitz Matrix",
-    "titleSlug": "toeplitz-matrix"
+    "titleSlug": "toeplitz-matrix",
+    "timestamp": 1776702026000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1982903971",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1776621293000,
     "title": "Group Anagrams",
-    "titleSlug": "group-anagrams"
+    "titleSlug": "group-anagrams",
+    "timestamp": 1776621293000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1981863896",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1776527521000,
     "title": "Container With Most Water",
-    "titleSlug": "container-with-most-water"
+    "titleSlug": "container-with-most-water",
+    "timestamp": 1776527521000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1981556480",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1776499263000,
     "title": "Mirror Distance of an Integer",
-    "titleSlug": "mirror-distance-of-an-integer"
+    "titleSlug": "mirror-distance-of-an-integer",
+    "timestamp": 1776499263000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1981226147",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1776452687000,
     "title": "Rotate Image",
-    "titleSlug": "rotate-image"
+    "titleSlug": "rotate-image",
+    "timestamp": 1776452687000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1980408668",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1776369513000,
     "title": "Largest Magic Square",
-    "titleSlug": "largest-magic-square"
+    "titleSlug": "largest-magic-square",
+    "timestamp": 1776369513000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1979406902",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1776273919000,
     "title": "Check Digitorial Permutation",
-    "titleSlug": "check-digitorial-permutation"
+    "titleSlug": "check-digitorial-permutation",
+    "timestamp": 1776273919000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1977071202",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1776063863000,
     "title": "Check Digitorial Permutation",
-    "titleSlug": "check-digitorial-permutation"
+    "titleSlug": "check-digitorial-permutation",
+    "timestamp": 1776063863000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1976550897",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1776010651000,
     "title": "Concatenation of Consecutive Binary Numbers",
-    "titleSlug": "concatenation-of-consecutive-binary-numbers"
+    "titleSlug": "concatenation-of-consecutive-binary-numbers",
+    "timestamp": 1776010651000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1975393884",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1775918227000,
     "title": "Minimum Swaps to Arrange a Binary Grid",
-    "titleSlug": "minimum-swaps-to-arrange-a-binary-grid"
+    "titleSlug": "minimum-swaps-to-arrange-a-binary-grid",
+    "timestamp": 1775918227000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1975392936",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1775918211000,
     "title": "Minimum Swaps to Arrange a Binary Grid",
-    "titleSlug": "minimum-swaps-to-arrange-a-binary-grid"
+    "titleSlug": "minimum-swaps-to-arrange-a-binary-grid",
+    "timestamp": 1775918211000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1972653747",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1775658379000,
     "title": "Minimum Changes To Make Alternating Binary String",
-    "titleSlug": "minimum-changes-to-make-alternating-binary-string"
+    "titleSlug": "minimum-changes-to-make-alternating-binary-string",
+    "timestamp": 1775658379000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1970639579",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1775486506000,
     "title": "Non-overlapping Intervals",
-    "titleSlug": "non-overlapping-intervals"
+    "titleSlug": "non-overlapping-intervals",
+    "timestamp": 1775486506000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1969642229",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1775394493000,
     "title": "Insert Interval",
-    "titleSlug": "insert-interval"
+    "titleSlug": "insert-interval",
+    "timestamp": 1775394493000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1968844368",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1775325069000,
     "title": "Candy",
-    "titleSlug": "candy"
+    "titleSlug": "candy",
+    "timestamp": 1775325069000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1967516462",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1775203410000,
     "title": "Jump Game II",
-    "titleSlug": "jump-game-ii"
+    "titleSlug": "jump-game-ii",
+    "timestamp": 1775203410000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1967425104",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1775196401000,
     "title": "Jump Game",
-    "titleSlug": "jump-game"
+    "titleSlug": "jump-game",
+    "timestamp": 1775196401000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1966974308",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1775147281000,
     "title": "Valid Parenthesis String",
-    "titleSlug": "valid-parenthesis-string"
+    "titleSlug": "valid-parenthesis-string",
+    "timestamp": 1775147281000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1964776953",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1774955859000,
     "title": "Maximum Number of Integers to Choose From a Range I",
-    "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-i"
+    "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-i",
+    "timestamp": 1774955859000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1964008067",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1774887059000,
     "title": "Maximum Distance in Arrays",
-    "titleSlug": "maximum-distance-in-arrays"
+    "titleSlug": "maximum-distance-in-arrays",
+    "timestamp": 1774887059000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1963129239",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1774807594000,
     "title": "Maximum Bags With Full Capacity of Rocks",
-    "titleSlug": "maximum-bags-with-full-capacity-of-rocks"
+    "titleSlug": "maximum-bags-with-full-capacity-of-rocks",
+    "timestamp": 1774807594000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1962032292",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1774717357000,
     "title": "Maximum Ice Cream Bars",
-    "titleSlug": "maximum-ice-cream-bars"
+    "titleSlug": "maximum-ice-cream-bars",
+    "timestamp": 1774717357000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1959721852",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1774514984000,
     "title": "Broken Calculator",
-    "titleSlug": "broken-calculator"
+    "titleSlug": "broken-calculator",
+    "timestamp": 1774514984000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1959066972",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1774456385000,
     "title": "Break a Palindrome",
-    "titleSlug": "break-a-palindrome"
+    "titleSlug": "break-a-palindrome",
+    "timestamp": 1774456385000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1957982432",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1774370407000,
     "title": "Break a Palindrome",
-    "titleSlug": "break-a-palindrome"
+    "titleSlug": "break-a-palindrome",
+    "timestamp": 1774370407000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1957619107",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1774345274000,
     "title": "Partition Labels",
-    "titleSlug": "partition-labels"
+    "titleSlug": "partition-labels",
+    "timestamp": 1774345274000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1957618997",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1774345267000,
     "title": "Partition Labels",
-    "titleSlug": "partition-labels"
+    "titleSlug": "partition-labels",
+    "timestamp": 1774345267000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1956976728",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1774286986000,
     "title": "Boats to Save People",
-    "titleSlug": "boats-to-save-people"
+    "titleSlug": "boats-to-save-people",
+    "timestamp": 1774286986000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1956001319",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1774201595000,
     "title": "Bag of Tokens",
-    "titleSlug": "bag-of-tokens"
+    "titleSlug": "bag-of-tokens",
+    "timestamp": 1774201595000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1954926674",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1774111195000,
     "title": "Lemonade Change",
-    "titleSlug": "lemonade-change"
+    "titleSlug": "lemonade-change",
+    "timestamp": 1774111195000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1954188007",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1774030194000,
     "title": "Assign Cookies",
-    "titleSlug": "assign-cookies"
+    "titleSlug": "assign-cookies",
+    "timestamp": 1774030194000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1951152187",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1773756387000,
     "title": "Maximum Frequency of an Element After Performing Operations I",
-    "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-i"
+    "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-i",
+    "timestamp": 1773756387000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1950181561",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1773674337000,
     "title": "Zero Array Transformation I",
-    "titleSlug": "zero-array-transformation-i"
+    "titleSlug": "zero-array-transformation-i",
+    "timestamp": 1773674337000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1949407424",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1773599937000,
     "title": "Zero Array Transformation III",
-    "titleSlug": "zero-array-transformation-iii"
+    "titleSlug": "zero-array-transformation-iii",
+    "timestamp": 1773599937000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1948358369",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1773516847000,
     "title": "Choose K Elements With Maximum Sum",
-    "titleSlug": "choose-k-elements-with-maximum-sum"
+    "titleSlug": "choose-k-elements-with-maximum-sum",
+    "timestamp": 1773516847000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1947267478",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1773424139000,
     "title": "Choose K Elements With Maximum Sum",
-    "titleSlug": "choose-k-elements-with-maximum-sum"
+    "titleSlug": "choose-k-elements-with-maximum-sum",
+    "timestamp": 1773424139000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1943928259",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1773147682000,
     "title": "K-th Smallest Prime Fraction",
-    "titleSlug": "k-th-smallest-prime-fraction"
+    "titleSlug": "k-th-smallest-prime-fraction",
+    "timestamp": 1773147682000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1943782770",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1773135823000,
     "title": "Two Sum II - Input Array Is Sorted",
-    "titleSlug": "two-sum-ii-input-array-is-sorted"
+    "titleSlug": "two-sum-ii-input-array-is-sorted",
+    "timestamp": 1773135823000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1942937130",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1773066602000,
     "title": "K-th Smallest Prime Fraction",
-    "titleSlug": "k-th-smallest-prime-fraction"
+    "titleSlug": "k-th-smallest-prime-fraction",
+    "timestamp": 1773066602000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1942151231",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1772991266000,
     "title": "IPO",
-    "titleSlug": "ipo"
+    "titleSlug": "ipo",
+    "timestamp": 1772991266000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1940140330",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1772820844000,
     "title": "IPO",
-    "titleSlug": "ipo"
+    "titleSlug": "ipo",
+    "timestamp": 1772820844000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1938854187",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1772721874000,
     "title": "Lexicographically Minimum String After Removing Stars",
-    "titleSlug": "lexicographically-minimum-string-after-removing-stars"
+    "titleSlug": "lexicographically-minimum-string-after-removing-stars",
+    "timestamp": 1772721874000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1936095711",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1772485201000,
     "title": "Maximum Average Subarray I",
-    "titleSlug": "maximum-average-subarray-i"
+    "titleSlug": "maximum-average-subarray-i",
+    "timestamp": 1772485201000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1934055544",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1772308416000,
     "title": "Maximum Average Subarray I",
-    "titleSlug": "maximum-average-subarray-i"
+    "titleSlug": "maximum-average-subarray-i",
+    "timestamp": 1772308416000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1933038686",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1772218005000,
     "title": "Two Sum II - Input Array Is Sorted",
-    "titleSlug": "two-sum-ii-input-array-is-sorted"
+    "titleSlug": "two-sum-ii-input-array-is-sorted",
+    "timestamp": 1772218005000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1932073306",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1772127669000,
     "title": "Trapping Rain Water II",
-    "titleSlug": "trapping-rain-water-ii"
+    "titleSlug": "trapping-rain-water-ii",
+    "timestamp": 1772127669000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1931056694",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1772042365000,
     "title": "Find Score of an Array After Marking All Elements",
-    "titleSlug": "find-score-of-an-array-after-marking-all-elements"
+    "titleSlug": "find-score-of-an-array-after-marking-all-elements",
+    "timestamp": 1772042365000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1929725838",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1771942939000,
     "title": "Longest Happy String",
-    "titleSlug": "longest-happy-string"
+    "titleSlug": "longest-happy-string",
+    "timestamp": 1771942939000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1928865633",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1771870756000,
     "title": "Maximal Score After Applying K Operations",
-    "titleSlug": "maximal-score-after-applying-k-operations"
+    "titleSlug": "maximal-score-after-applying-k-operations",
+    "timestamp": 1771870756000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1927815648",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1771792304000,
     "title": "Minimum Operations to Exceed Threshold Value II",
-    "titleSlug": "minimum-operations-to-exceed-threshold-value-ii"
+    "titleSlug": "minimum-operations-to-exceed-threshold-value-ii",
+    "timestamp": 1771792304000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1927530226",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1771771932000,
     "title": "Task Scheduler",
-    "titleSlug": "task-scheduler"
+    "titleSlug": "task-scheduler",
+    "timestamp": 1771771932000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1926501043",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1771690812000,
     "title": "Kth Largest Element in an Array",
-    "titleSlug": "kth-largest-element-in-an-array"
+    "titleSlug": "kth-largest-element-in-an-array",
+    "timestamp": 1771690812000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1926496717",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1771690536000,
     "title": "Kth Largest Element in an Array",
-    "titleSlug": "kth-largest-element-in-an-array"
+    "titleSlug": "kth-largest-element-in-an-array",
+    "timestamp": 1771690536000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1926258609",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1771671870000,
     "title": "Find K Pairs with Smallest Sums",
-    "titleSlug": "find-k-pairs-with-smallest-sums"
+    "titleSlug": "find-k-pairs-with-smallest-sums",
+    "timestamp": 1771671870000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1925591441",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1771607470000,
     "title": "Total Cost to Hire K Workers",
-    "titleSlug": "total-cost-to-hire-k-workers"
+    "titleSlug": "total-cost-to-hire-k-workers",
+    "timestamp": 1771607470000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1924530539",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1771516502000,
     "title": "Kth Largest Element in a Stream",
-    "titleSlug": "kth-largest-element-in-a-stream"
+    "titleSlug": "kth-largest-element-in-a-stream",
+    "timestamp": 1771516502000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1923640843",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1771440112000,
     "title": "Top K Frequent Elements",
-    "titleSlug": "top-k-frequent-elements"
+    "titleSlug": "top-k-frequent-elements",
+    "timestamp": 1771440112000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1922538157",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1771355164000,
     "title": "Last Stone Weight",
-    "titleSlug": "last-stone-weight"
+    "titleSlug": "last-stone-weight",
+    "timestamp": 1771355164000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1920104764",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1771163179000,
     "title": "Last Stone Weight",
-    "titleSlug": "last-stone-weight"
+    "titleSlug": "last-stone-weight",
+    "timestamp": 1771163179000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1918899180",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1771072947000,
     "title": "Remove Stones to Minimize the Total",
-    "titleSlug": "remove-stones-to-minimize-the-total"
+    "titleSlug": "remove-stones-to-minimize-the-total",
+    "timestamp": 1771072947000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1917347562",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770923965000,
     "title": "Find Median from Data Stream",
-    "titleSlug": "find-median-from-data-stream"
+    "titleSlug": "find-median-from-data-stream",
+    "timestamp": 1770923965000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1917347457",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770923957000,
     "title": "Find Median from Data Stream",
-    "titleSlug": "find-median-from-data-stream"
+    "titleSlug": "find-median-from-data-stream",
+    "timestamp": 1770923957000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1915063670",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770750059000,
     "title": "Maximum Number of Vowels in a Substring of Given Length",
-    "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length"
+    "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+    "timestamp": 1770750059000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1913745580",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770656478000,
     "title": "K Radius Subarray Averages",
-    "titleSlug": "k-radius-subarray-averages"
+    "titleSlug": "k-radius-subarray-averages",
+    "timestamp": 1770656478000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1913435389",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770638643000,
     "title": "K Radius Subarray Averages",
-    "titleSlug": "k-radius-subarray-averages"
+    "titleSlug": "k-radius-subarray-averages",
+    "timestamp": 1770638643000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1913271075",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770626664000,
     "title": "Maximum Number of Vowels in a Substring of Given Length",
-    "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length"
+    "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+    "timestamp": 1770626664000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1912677770",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770571055000,
     "title": "Count Subarrays With Fixed Bounds",
-    "titleSlug": "count-subarrays-with-fixed-bounds"
+    "titleSlug": "count-subarrays-with-fixed-bounds",
+    "timestamp": 1770571055000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1912483516",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770559089000,
     "title": "Contains Duplicate II",
-    "titleSlug": "contains-duplicate-ii"
+    "titleSlug": "contains-duplicate-ii",
+    "timestamp": 1770559089000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1912290361",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770544505000,
     "title": "Minimum Window Substring",
-    "titleSlug": "minimum-window-substring"
+    "titleSlug": "minimum-window-substring",
+    "timestamp": 1770544505000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1911178253",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770461084000,
     "title": "Subarrays with K Different Integers",
-    "titleSlug": "subarrays-with-k-different-integers"
+    "titleSlug": "subarrays-with-k-different-integers",
+    "timestamp": 1770461084000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1910307301",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770386285000,
     "title": "Maximum Points You Can Obtain from Cards",
-    "titleSlug": "maximum-points-you-can-obtain-from-cards"
+    "titleSlug": "maximum-points-you-can-obtain-from-cards",
+    "timestamp": 1770386285000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1909362506",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770310365000,
     "title": "Number of Substrings Containing All Three Characters",
-    "titleSlug": "number-of-substrings-containing-all-three-characters"
+    "titleSlug": "number-of-substrings-containing-all-three-characters",
+    "timestamp": 1770310365000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1908275507",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770227609000,
     "title": "Count Number of Nice Subarrays",
-    "titleSlug": "count-number-of-nice-subarrays"
+    "titleSlug": "count-number-of-nice-subarrays",
+    "timestamp": 1770227609000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1907167741",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770145281000,
     "title": "Binary Subarrays With Sum",
-    "titleSlug": "binary-subarrays-with-sum"
+    "titleSlug": "binary-subarrays-with-sum",
+    "timestamp": 1770145281000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1906539425",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770112495000,
     "title": "Single Number III",
-    "titleSlug": "single-number-iii"
+    "titleSlug": "single-number-iii",
+    "timestamp": 1770112495000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1905412232",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1770035197000,
     "title": "Longest Repeating Character Replacement",
-    "titleSlug": "longest-repeating-character-replacement"
+    "titleSlug": "longest-repeating-character-replacement",
+    "timestamp": 1770035197000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1902274125",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1769795641000,
     "title": "Max Consecutive Ones III",
-    "titleSlug": "max-consecutive-ones-iii"
+    "titleSlug": "max-consecutive-ones-iii",
+    "timestamp": 1769795641000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1901129986",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1769704138000,
     "title": "Longest Substring Without Repeating Characters",
-    "titleSlug": "longest-substring-without-repeating-characters"
+    "titleSlug": "longest-substring-without-repeating-characters",
+    "timestamp": 1769704138000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1900486691",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1769661069000,
     "title": "Bitwise AND of Numbers Range",
-    "titleSlug": "bitwise-and-of-numbers-range"
+    "titleSlug": "bitwise-and-of-numbers-range",
+    "timestamp": 1769661069000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1898455190",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1769509250000,
     "title": "Single Number II",
-    "titleSlug": "single-number-ii"
+    "titleSlug": "single-number-ii",
+    "timestamp": 1769509250000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1895953636",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1769310235000,
     "title": "Rotate Non Negative Elements",
-    "titleSlug": "rotate-non-negative-elements"
+    "titleSlug": "rotate-non-negative-elements",
+    "timestamp": 1769310235000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1895900476",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1769308682000,
     "title": "Minimum Prefix Removal to Make Array Strictly Increasing",
-    "titleSlug": "minimum-prefix-removal-to-make-array-strictly-increasing"
+    "titleSlug": "minimum-prefix-removal-to-make-array-strictly-increasing",
+    "timestamp": 1769308682000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1895550979",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1769273901000,
     "title": "Online Stock Span",
-    "titleSlug": "online-stock-span"
+    "titleSlug": "online-stock-span",
+    "timestamp": 1769273901000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1895547545",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1769273712000,
     "title": "Online Stock Span",
-    "titleSlug": "online-stock-span"
+    "titleSlug": "online-stock-span",
+    "timestamp": 1769273712000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1894642942",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1769192522000,
     "title": "Sliding Window Maximum",
-    "titleSlug": "sliding-window-maximum"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "359226396",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1769095153000,
-    "title": "United We Stand",
-    "titleSlug": "1859/A"
+    "titleSlug": "sliding-window-maximum",
+    "timestamp": 1769192522000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1892903951",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1769060857000,
     "title": "Minimum Pair Removal to Sort Array I",
-    "titleSlug": "minimum-pair-removal-to-sort-array-i"
+    "titleSlug": "minimum-pair-removal-to-sort-array-i",
+    "timestamp": 1769060857000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1892461312",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1769017747000,
     "title": "Maximal Rectangle",
-    "titleSlug": "maximal-rectangle"
+    "titleSlug": "maximal-rectangle",
+    "timestamp": 1769017747000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1891039106",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1768916108000,
     "title": "Largest Rectangle in Histogram",
-    "titleSlug": "largest-rectangle-in-histogram"
+    "titleSlug": "largest-rectangle-in-histogram",
+    "timestamp": 1768916108000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1890225034",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1768846724000,
     "title": "Remove K Digits",
-    "titleSlug": "remove-k-digits"
+    "titleSlug": "remove-k-digits",
+    "timestamp": 1768846724000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1888740836",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1768729180000,
     "title": "Remove K Digits",
-    "titleSlug": "remove-k-digits"
+    "titleSlug": "remove-k-digits",
+    "timestamp": 1768729180000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1888382265",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1768704265000,
     "title": "Vowel-Consonant Score",
-    "titleSlug": "vowel-consonant-score"
+    "titleSlug": "vowel-consonant-score",
+    "timestamp": 1768704265000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1887873096",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1768661680000,
     "title": "Best Reachable Tower",
-    "titleSlug": "best-reachable-tower"
+    "titleSlug": "best-reachable-tower",
+    "timestamp": 1768661680000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1887109460",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1768588040000,
     "title": "Sum of Subarray Ranges",
-    "titleSlug": "sum-of-subarray-ranges"
+    "titleSlug": "sum-of-subarray-ranges",
+    "timestamp": 1768588040000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1887104607",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1768587774000,
     "title": "Sum of Subarray Ranges",
-    "titleSlug": "sum-of-subarray-ranges"
+    "titleSlug": "sum-of-subarray-ranges",
+    "timestamp": 1768587774000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1886134438",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1768501566000,
     "title": "Asteroid Collision",
-    "titleSlug": "asteroid-collision"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "358001227",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1768500090000,
-    "title": "Sequence Game",
-    "titleSlug": "1862/B"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "357928995",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1768467360000,
-    "title": "Ambitious Kid",
-    "titleSlug": "1866/A"
+    "titleSlug": "asteroid-collision",
+    "timestamp": 1768501566000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1885143985",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1768415593000,
     "title": "Sum of Subarray Minimums",
-    "titleSlug": "sum-of-subarray-minimums"
+    "titleSlug": "sum-of-subarray-minimums",
+    "timestamp": 1768415593000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1883169933",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1768245736000,
     "title": "Count Primes",
-    "titleSlug": "count-primes"
+    "titleSlug": "count-primes",
+    "timestamp": 1768245736000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1880724461",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1768051050000,
     "title": "Minimum Bit Flips to Convert Number",
-    "titleSlug": "minimum-bit-flips-to-convert-number"
+    "titleSlug": "minimum-bit-flips-to-convert-number",
+    "timestamp": 1768051050000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1880103520",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1767985694000,
     "title": "Divide Two Integers",
-    "titleSlug": "divide-two-integers"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "355254946",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1766816907000,
-    "title": "Target Practice",
-    "titleSlug": "1873/C"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "355177803",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1766755918000,
-    "title": "Goals of Victory",
-    "titleSlug": "1877/A"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "355094562",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1766688866000,
-    "title": "How Much Does Daytona Cost?",
-    "titleSlug": "1878/A"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "355008841",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1766640422000,
-    "title": "Don't Try to Count",
-    "titleSlug": "1881/A"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "354982179",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1766602249000,
-    "title": "Doremy's Paint 3",
-    "titleSlug": "1890/A"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "354858265",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1766515231000,
-    "title": "Jagged Swaps",
-    "titleSlug": "1896/A"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "354851329",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1766511568000,
-    "title": "Game with Integers",
-    "titleSlug": "1899/A"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "354690252",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1766494894000,
-    "title": "Cover in Water",
-    "titleSlug": "1900/A"
+    "titleSlug": "divide-two-integers",
+    "timestamp": 1767985694000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1834475498",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1763574124000,
     "title": "Keep Multiplying Found Values by Two",
-    "titleSlug": "keep-multiplying-found-values-by-two"
+    "titleSlug": "keep-multiplying-found-values-by-two",
+    "timestamp": 1763574124000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1833608673",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1763498428000,
     "title": "Trapping Rain Water",
-    "titleSlug": "trapping-rain-water"
+    "titleSlug": "trapping-rain-water",
+    "timestamp": 1763498428000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1833591512",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1763496790000,
     "title": "1-bit and 2-bit Characters",
-    "titleSlug": "1-bit-and-2-bit-characters"
+    "titleSlug": "1-bit-and-2-bit-characters",
+    "timestamp": 1763496790000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1832623701",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1763404902000,
     "title": "Check If All 1's Are at Least Length K Places Away",
-    "titleSlug": "check-if-all-1s-are-at-least-length-k-places-away"
+    "titleSlug": "check-if-all-1s-are-at-least-length-k-places-away",
+    "timestamp": 1763404902000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1831595645",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1763316845000,
     "title": "Number of Substrings With Only 1s",
-    "titleSlug": "number-of-substrings-with-only-1s"
+    "titleSlug": "number-of-substrings-with-only-1s",
+    "timestamp": 1763316845000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1830592172",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1763230147000,
     "title": "Count the Number of Substrings With Dominant Ones",
-    "titleSlug": "count-the-number-of-substrings-with-dominant-ones"
+    "titleSlug": "count-the-number-of-substrings-with-dominant-ones",
+    "timestamp": 1763230147000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1830400342",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1763215133000,
     "title": "Next Greater Element II",
-    "titleSlug": "next-greater-element-ii"
+    "titleSlug": "next-greater-element-ii",
+    "timestamp": 1763215133000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1829821147",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1763143780000,
     "title": "Increment Submatrices by One",
-    "titleSlug": "increment-submatrices-by-one"
+    "titleSlug": "increment-submatrices-by-one",
+    "timestamp": 1763143780000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1828995796",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1763057802000,
     "title": "Maximum Number of Operations to Move Ones to the End",
-    "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end"
+    "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end",
+    "timestamp": 1763057802000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1827782012",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762949170000,
     "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
-    "titleSlug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1"
+    "titleSlug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+    "timestamp": 1762949170000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1827194186",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762886284000,
     "title": "Ones and Zeroes",
-    "titleSlug": "ones-and-zeroes"
+    "titleSlug": "ones-and-zeroes",
+    "timestamp": 1762886284000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1825950663",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762777768000,
     "title": "Minimum Operations to Convert All Elements to Zero",
-    "titleSlug": "minimum-operations-to-convert-all-elements-to-zero"
+    "titleSlug": "minimum-operations-to-convert-all-elements-to-zero",
+    "timestamp": 1762777768000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1824989885",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762682671000,
     "title": "Count Operations to Obtain Zero",
-    "titleSlug": "count-operations-to-obtain-zero"
+    "titleSlug": "count-operations-to-obtain-zero",
+    "timestamp": 1762682671000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1824497299",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762636474000,
     "title": "Minimum One Bit Operations to Make Integers Zero",
-    "titleSlug": "minimum-one-bit-operations-to-make-integers-zero"
+    "titleSlug": "minimum-one-bit-operations-to-make-integers-zero",
+    "timestamp": 1762636474000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1823527129",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762540145000,
     "title": "Maximize the Minimum Powered City",
-    "titleSlug": "maximize-the-minimum-powered-city"
+    "titleSlug": "maximize-the-minimum-powered-city",
+    "timestamp": 1762540145000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1822599234",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762447885000,
     "title": "Power Grid Maintenance",
-    "titleSlug": "power-grid-maintenance"
+    "titleSlug": "power-grid-maintenance",
+    "timestamp": 1762447885000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1821786949",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762367107000,
     "title": "Find X-Sum of All K-Long Subarrays II",
-    "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii"
+    "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii",
+    "timestamp": 1762367107000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1820587095",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762266412000,
     "title": "Next Greater Element I",
-    "titleSlug": "next-greater-element-i"
+    "titleSlug": "next-greater-element-i",
+    "timestamp": 1762266412000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1820582044",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762266042000,
     "title": "Next Greater Element I",
-    "titleSlug": "next-greater-element-i"
+    "titleSlug": "next-greater-element-i",
+    "timestamp": 1762266042000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1820533726",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762262410000,
     "title": "Find X-Sum of All K-Long Subarrays I",
-    "titleSlug": "find-x-sum-of-all-k-long-subarrays-i"
+    "titleSlug": "find-x-sum-of-all-k-long-subarrays-i",
+    "timestamp": 1762262410000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1819350422",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762157435000,
     "title": "Min Stack",
-    "titleSlug": "min-stack"
+    "titleSlug": "min-stack",
+    "timestamp": 1762157435000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1819334454",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762155849000,
     "title": "Minimum Time to Make Rope Colorful",
-    "titleSlug": "minimum-time-to-make-rope-colorful"
+    "titleSlug": "minimum-time-to-make-rope-colorful",
+    "timestamp": 1762155849000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1818859380",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762105717000,
     "title": "Implement Queue using Stacks",
-    "titleSlug": "implement-queue-using-stacks"
+    "titleSlug": "implement-queue-using-stacks",
+    "timestamp": 1762105717000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1818847798",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762104939000,
     "title": "Implement Stack using Queues",
-    "titleSlug": "implement-stack-using-queues"
+    "titleSlug": "implement-stack-using-queues",
+    "timestamp": 1762104939000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1818495726",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1762075444000,
     "title": "Count Unguarded Cells in the Grid",
-    "titleSlug": "count-unguarded-cells-in-the-grid"
+    "titleSlug": "count-unguarded-cells-in-the-grid",
+    "timestamp": 1762075444000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1817561945",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1761991655000,
     "title": "Delete Nodes From Linked List Present in Array",
-    "titleSlug": "delete-nodes-from-linked-list-present-in-array"
+    "titleSlug": "delete-nodes-from-linked-list-present-in-array",
+    "timestamp": 1761991655000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1817101798",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1761935109000,
     "title": "The Two Sneaky Numbers of Digitville",
-    "titleSlug": "the-two-sneaky-numbers-of-digitville"
+    "titleSlug": "the-two-sneaky-numbers-of-digitville",
+    "timestamp": 1761935109000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1816226555",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1761848832000,
     "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
-    "titleSlug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array"
+    "titleSlug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+    "timestamp": 1761848832000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1816181496",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1761846013000,
     "title": "Valid Parentheses",
-    "titleSlug": "valid-parentheses"
+    "titleSlug": "valid-parentheses",
+    "timestamp": 1761846013000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1815149217",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1761751930000,
     "title": "Valid Parentheses",
-    "titleSlug": "valid-parentheses"
+    "titleSlug": "valid-parentheses",
+    "timestamp": 1761751930000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1813488395",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1761599646000,
     "title": "Expression Add Operators",
-    "titleSlug": "expression-add-operators"
+    "titleSlug": "expression-add-operators",
+    "timestamp": 1761599646000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1813165411",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1761571516000,
     "title": "Sudoku Solver",
-    "titleSlug": "sudoku-solver"
+    "titleSlug": "sudoku-solver",
+    "timestamp": 1761571516000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1809771489",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1761248209000,
     "title": "Word Break",
-    "titleSlug": "word-break"
+    "titleSlug": "word-break",
+    "timestamp": 1761248209000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1806892864",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1760979840000,
     "title": "Word Search",
-    "titleSlug": "word-search"
+    "titleSlug": "word-search",
+    "timestamp": 1760979840000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1804550263",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1760735085000,
     "title": "Palindrome Partitioning",
-    "titleSlug": "palindrome-partitioning"
+    "titleSlug": "palindrome-partitioning",
+    "timestamp": 1760735085000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1801706416",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1760465933000,
     "title": "Combination Sum III",
-    "titleSlug": "combination-sum-iii"
+    "titleSlug": "combination-sum-iii",
+    "timestamp": 1760465933000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1799624726",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1760293207000,
     "title": "Combination Sum III",
-    "titleSlug": "combination-sum-iii"
+    "titleSlug": "combination-sum-iii",
+    "timestamp": 1760293207000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1798693283",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1760212279000,
     "title": "Two Sum",
-    "titleSlug": "two-sum"
+    "titleSlug": "two-sum",
+    "timestamp": 1760212279000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1796649379",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1760033459000,
     "title": "Generate Parentheses",
-    "titleSlug": "generate-parentheses"
+    "titleSlug": "generate-parentheses",
+    "timestamp": 1760033459000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1796616520",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1760031676000,
     "title": "Generate Parentheses",
-    "titleSlug": "generate-parentheses"
+    "titleSlug": "generate-parentheses",
+    "timestamp": 1760031676000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1795671386",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1759948780000,
     "title": "Count Good Numbers",
-    "titleSlug": "count-good-numbers"
+    "titleSlug": "count-good-numbers",
+    "timestamp": 1759948780000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1795670903",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1759948749000,
     "title": "Count Good Numbers",
-    "titleSlug": "count-good-numbers"
+    "titleSlug": "count-good-numbers",
+    "timestamp": 1759948749000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1794486055",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1759858503000,
     "title": "Count Good Numbers",
-    "titleSlug": "count-good-numbers"
+    "titleSlug": "count-good-numbers",
+    "timestamp": 1759858503000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1793520974",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1759779627000,
     "title": "Pow(x, n)",
-    "titleSlug": "powx-n"
+    "titleSlug": "powx-n",
+    "timestamp": 1759779627000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1792428176",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1759686842000,
     "title": "String to Integer (atoi)",
-    "titleSlug": "string-to-integer-atoi"
+    "titleSlug": "string-to-integer-atoi",
+    "timestamp": 1759686842000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1791751398",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1759636575000,
     "title": "Longest Palindromic Substring",
-    "titleSlug": "longest-palindromic-substring"
+    "titleSlug": "longest-palindromic-substring",
+    "timestamp": 1759636575000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1789548974",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1759432722000,
     "title": "Water Bottles II",
-    "titleSlug": "water-bottles-ii"
+    "titleSlug": "water-bottles-ii",
+    "timestamp": 1759432722000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1787648590",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1759266672000,
     "title": "Sum of Beauty of All Substrings",
-    "titleSlug": "sum-of-beauty-of-all-substrings"
+    "titleSlug": "sum-of-beauty-of-all-substrings",
+    "timestamp": 1759266672000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1787317262",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1759242579000,
     "title": "Roman to Integer",
-    "titleSlug": "roman-to-integer"
+    "titleSlug": "roman-to-integer",
+    "timestamp": 1759242579000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1786606730",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1759174287000,
     "title": "Maximum Nesting Depth of the Parentheses",
-    "titleSlug": "maximum-nesting-depth-of-the-parentheses"
+    "titleSlug": "maximum-nesting-depth-of-the-parentheses",
+    "timestamp": 1759174287000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1785619640",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1759085337000,
     "title": "Maximum Nesting Depth of the Parentheses",
-    "titleSlug": "maximum-nesting-depth-of-the-parentheses"
+    "titleSlug": "maximum-nesting-depth-of-the-parentheses",
+    "timestamp": 1759085337000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1784587382",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1759002119000,
     "title": "Sort Characters By Frequency",
-    "titleSlug": "sort-characters-by-frequency"
+    "titleSlug": "sort-characters-by-frequency",
+    "timestamp": 1759002119000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1783634637",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1758916547000,
     "title": "Sort Characters By Frequency",
-    "titleSlug": "sort-characters-by-frequency"
+    "titleSlug": "sort-characters-by-frequency",
+    "timestamp": 1758916547000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1782584708",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1758823279000,
     "title": "Valid Anagram",
-    "titleSlug": "valid-anagram"
+    "titleSlug": "valid-anagram",
+    "timestamp": 1758823279000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1782374242",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1758810447000,
     "title": "Rotate String",
-    "titleSlug": "rotate-string"
-  },
-  {
-    "difficulty": "Medium",
-    "id": "340219007",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 1500,
-    "statusDisplay": "Accepted",
-    "timestamp": 1758729581000,
-    "title": "Greetings",
-    "titleSlug": "1915/F"
+    "titleSlug": "rotate-string",
+    "timestamp": 1758810447000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1781306170",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1758723091000,
     "title": "Longest Common Prefix",
-    "titleSlug": "longest-common-prefix"
+    "titleSlug": "longest-common-prefix",
+    "timestamp": 1758723091000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1781305915",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1758723074000,
     "title": "Longest Common Prefix",
-    "titleSlug": "longest-common-prefix"
+    "titleSlug": "longest-common-prefix",
+    "timestamp": 1758723074000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1780528496",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1758652583000,
     "title": "Largest Odd Number in String",
-    "titleSlug": "largest-odd-number-in-string"
+    "titleSlug": "largest-odd-number-in-string",
+    "timestamp": 1758652583000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1775295235",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1758218087000,
     "title": "Reverse Words in a String",
-    "titleSlug": "reverse-words-in-a-string"
+    "titleSlug": "reverse-words-in-a-string",
+    "timestamp": 1758218087000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1774288083",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1758137617000,
     "title": "Reverse Words in a String",
-    "titleSlug": "reverse-words-in-a-string"
+    "titleSlug": "reverse-words-in-a-string",
+    "timestamp": 1758137617000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1774021949",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1758123305000,
     "title": "Remove Outermost Parentheses",
-    "titleSlug": "remove-outermost-parentheses"
+    "titleSlug": "remove-outermost-parentheses",
+    "timestamp": 1758123305000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1767113237",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1757591859000,
     "title": "Valid Palindrome",
-    "titleSlug": "valid-palindrome"
+    "titleSlug": "valid-palindrome",
+    "timestamp": 1757591859000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1728563549",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1754713960000,
     "title": "Power of Two",
-    "titleSlug": "power-of-two"
+    "titleSlug": "power-of-two",
+    "timestamp": 1754713960000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1706249411",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1753117858000,
     "title": "Find a Peak Element II",
-    "titleSlug": "find-a-peak-element-ii"
+    "titleSlug": "find-a-peak-element-ii",
+    "timestamp": 1753117858000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1704910073",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1753025457000,
     "title": "Find a Peak Element II",
-    "titleSlug": "find-a-peak-element-ii"
+    "titleSlug": "find-a-peak-element-ii",
+    "timestamp": 1753025457000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1703933677",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1752949883000,
     "title": "Search a 2D Matrix II",
-    "titleSlug": "search-a-2d-matrix-ii"
+    "titleSlug": "search-a-2d-matrix-ii",
+    "timestamp": 1752949883000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1702662695",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1752858081000,
     "title": "Search a 2D Matrix",
-    "titleSlug": "search-a-2d-matrix"
+    "titleSlug": "search-a-2d-matrix",
+    "timestamp": 1752858081000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1701435635",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1752765884000,
     "title": "Median of Two Sorted Arrays",
-    "titleSlug": "median-of-two-sorted-arrays"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "328543913",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1752245395000,
-    "title": "Line Trip",
-    "titleSlug": "1901/A"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "328226230",
-    "lang": "C++17 (GCC 7-32)",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1752063022000,
-    "title": "Halloumi Boxes",
-    "titleSlug": "1903/A"
+    "titleSlug": "median-of-two-sorted-arrays",
+    "timestamp": 1752765884000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1681768614",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1751305812000,
     "title": "Kth Missing Positive Number",
-    "titleSlug": "kth-missing-positive-number"
+    "titleSlug": "kth-missing-positive-number",
+    "timestamp": 1751305812000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1677537940",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1750960944000,
     "title": "Capacity To Ship Packages Within D Days",
-    "titleSlug": "capacity-to-ship-packages-within-d-days"
+    "titleSlug": "capacity-to-ship-packages-within-d-days",
+    "timestamp": 1750960944000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1676350585",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1750873438000,
     "title": "Find the Smallest Divisor Given a Threshold",
-    "titleSlug": "find-the-smallest-divisor-given-a-threshold"
+    "titleSlug": "find-the-smallest-divisor-given-a-threshold",
+    "timestamp": 1750873438000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1676345993",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1750873212000,
     "title": "Find the Smallest Divisor Given a Threshold",
-    "titleSlug": "find-the-smallest-divisor-given-a-threshold"
+    "titleSlug": "find-the-smallest-divisor-given-a-threshold",
+    "timestamp": 1750873212000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1675003324",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1750775591000,
     "title": "Minimum Number of Days to Make m Bouquets",
-    "titleSlug": "minimum-number-of-days-to-make-m-bouquets"
+    "titleSlug": "minimum-number-of-days-to-make-m-bouquets",
+    "timestamp": 1750775591000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1672953495",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1750616540000,
     "title": "Koko Eating Bananas",
-    "titleSlug": "koko-eating-bananas"
+    "titleSlug": "koko-eating-bananas",
+    "timestamp": 1750616540000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1671836690",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1750527272000,
     "title": "Find Peak Element",
-    "titleSlug": "find-peak-element"
+    "titleSlug": "find-peak-element",
+    "timestamp": 1750527272000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1669735628",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1750356368000,
     "title": "Single Element in a Sorted Array",
-    "titleSlug": "single-element-in-a-sorted-array"
+    "titleSlug": "single-element-in-a-sorted-array",
+    "timestamp": 1750356368000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1658957836",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1749493200000,
     "title": "Find Minimum in Rotated Sorted Array",
-    "titleSlug": "find-minimum-in-rotated-sorted-array"
+    "titleSlug": "find-minimum-in-rotated-sorted-array",
+    "timestamp": 1749493200000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1612782960",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1745173016000,
     "title": "Search in Rotated Sorted Array II",
-    "titleSlug": "search-in-rotated-sorted-array-ii"
+    "titleSlug": "search-in-rotated-sorted-array-ii",
+    "timestamp": 1745173016000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1611719582",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1745084554000,
     "title": "Search in Rotated Sorted Array",
-    "titleSlug": "search-in-rotated-sorted-array"
+    "titleSlug": "search-in-rotated-sorted-array",
+    "timestamp": 1745084554000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1611545204",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1745071685000,
     "title": "Find First and Last Position of Element in Sorted Array",
-    "titleSlug": "find-first-and-last-position-of-element-in-sorted-array"
+    "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+    "timestamp": 1745071685000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1610842957",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1745003662000,
     "title": "Search Insert Position",
-    "titleSlug": "search-insert-position"
+    "titleSlug": "search-insert-position",
+    "timestamp": 1745003662000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1609860181",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1744918536000,
     "title": "Maximum Product Subarray",
-    "titleSlug": "maximum-product-subarray"
+    "titleSlug": "maximum-product-subarray",
+    "timestamp": 1744918536000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1608779261",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1744824926000,
     "title": "Maximum Product Subarray",
-    "titleSlug": "maximum-product-subarray"
+    "titleSlug": "maximum-product-subarray",
+    "timestamp": 1744824926000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1607762501",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1744736916000,
     "title": "Reverse Pairs",
-    "titleSlug": "reverse-pairs"
+    "titleSlug": "reverse-pairs",
+    "timestamp": 1744736916000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1605689402",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1744554796000,
     "title": "Merge Sorted Array",
-    "titleSlug": "merge-sorted-array"
+    "titleSlug": "merge-sorted-array",
+    "timestamp": 1744554796000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1605688447",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1744554727000,
     "title": "Merge Sorted Array",
-    "titleSlug": "merge-sorted-array"
+    "titleSlug": "merge-sorted-array",
+    "timestamp": 1744554727000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1604816816",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1744478846000,
     "title": "Merge Intervals",
-    "titleSlug": "merge-intervals"
+    "titleSlug": "merge-intervals",
+    "timestamp": 1744478846000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1602845340",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1744302080000,
     "title": "4Sum",
-    "titleSlug": "4sum"
+    "titleSlug": "4sum",
+    "timestamp": 1744302080000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1597794136",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1743881367000,
     "title": "3Sum",
-    "titleSlug": "3sum"
+    "titleSlug": "3sum",
+    "timestamp": 1743881367000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1596898012",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1743796108000,
     "title": "3Sum",
-    "titleSlug": "3sum"
+    "titleSlug": "3sum",
+    "timestamp": 1743796108000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1594711212",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1743615870000,
     "title": "Majority Element II",
-    "titleSlug": "majority-element-ii"
+    "titleSlug": "majority-element-ii",
+    "timestamp": 1743615870000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1593204050",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1743517424000,
     "title": "Pascal's Triangle",
-    "titleSlug": "pascals-triangle"
+    "titleSlug": "pascals-triangle",
+    "timestamp": 1743517424000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1554185496",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1740424968000,
     "title": "Subarray Sum Equals K",
-    "titleSlug": "subarray-sum-equals-k"
+    "titleSlug": "subarray-sum-equals-k",
+    "timestamp": 1740424968000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1553094563",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1740336940000,
     "title": "Subarray Sum Equals K",
-    "titleSlug": "subarray-sum-equals-k"
+    "titleSlug": "subarray-sum-equals-k",
+    "timestamp": 1740336940000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1552052844",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1740253581000,
     "title": "Spiral Matrix",
-    "titleSlug": "spiral-matrix"
+    "titleSlug": "spiral-matrix",
+    "timestamp": 1740253581000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1551063283",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1740165555000,
     "title": "Rotate Image",
-    "titleSlug": "rotate-image"
+    "titleSlug": "rotate-image",
+    "timestamp": 1740165555000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1549949097",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1740075332000,
     "title": "Set Matrix Zeroes",
-    "titleSlug": "set-matrix-zeroes"
+    "titleSlug": "set-matrix-zeroes",
+    "timestamp": 1740075332000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1548856257",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1739989971000,
     "title": "Set Matrix Zeroes",
-    "titleSlug": "set-matrix-zeroes"
+    "titleSlug": "set-matrix-zeroes",
+    "timestamp": 1739989971000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1547418995",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1739886055000,
     "title": "Longest Consecutive Sequence",
-    "titleSlug": "longest-consecutive-sequence"
+    "titleSlug": "longest-consecutive-sequence",
+    "timestamp": 1739886055000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1547412230",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1739885607000,
     "title": "Longest Consecutive Sequence",
-    "titleSlug": "longest-consecutive-sequence"
+    "titleSlug": "longest-consecutive-sequence",
+    "timestamp": 1739885607000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1546533056",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1739815665000,
     "title": "Next Permutation",
-    "titleSlug": "next-permutation"
+    "titleSlug": "next-permutation",
+    "timestamp": 1739815665000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1545465415",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1739734741000,
     "title": "Rearrange Array Elements by Sign",
-    "titleSlug": "rearrange-array-elements-by-sign"
+    "titleSlug": "rearrange-array-elements-by-sign",
+    "timestamp": 1739734741000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1545114195",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1739712809000,
     "title": "Best Time to Buy and Sell Stock",
-    "titleSlug": "best-time-to-buy-and-sell-stock"
+    "titleSlug": "best-time-to-buy-and-sell-stock",
+    "timestamp": 1739712809000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1544947344",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1739700527000,
     "title": "Maximum Subarray",
-    "titleSlug": "maximum-subarray"
+    "titleSlug": "maximum-subarray",
+    "timestamp": 1739700527000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1544945800",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1739700409000,
     "title": "Maximum Subarray",
-    "titleSlug": "maximum-subarray"
+    "titleSlug": "maximum-subarray",
+    "timestamp": 1739700409000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1543176806",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1739556764000,
     "title": "Majority Element",
-    "titleSlug": "majority-element"
+    "titleSlug": "majority-element",
+    "timestamp": 1739556764000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1542045837",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1739468332000,
     "title": "Sort Colors",
-    "titleSlug": "sort-colors"
+    "titleSlug": "sort-colors",
+    "timestamp": 1739468332000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1539652631",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1739299539000,
     "title": "Single Number",
-    "titleSlug": "single-number"
+    "titleSlug": "single-number",
+    "timestamp": 1739299539000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1526771490",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1738353287000,
     "title": "Missing Number",
-    "titleSlug": "missing-number"
+    "titleSlug": "missing-number",
+    "timestamp": 1738353287000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1524687158",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1738176753000,
     "title": "Palindrome Linked List",
-    "titleSlug": "palindrome-linked-list"
+    "titleSlug": "palindrome-linked-list",
+    "timestamp": 1738176753000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1521362583",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1737915390000,
     "title": "Linked List Cycle II",
-    "titleSlug": "linked-list-cycle-ii"
+    "titleSlug": "linked-list-cycle-ii",
+    "timestamp": 1737915390000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1520921507",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1737882034000,
     "title": "Palindrome Linked List",
-    "titleSlug": "palindrome-linked-list"
+    "titleSlug": "palindrome-linked-list",
+    "timestamp": 1737882034000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1520921187",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1737882004000,
     "title": "Palindrome Linked List",
-    "titleSlug": "palindrome-linked-list"
+    "titleSlug": "palindrome-linked-list",
+    "timestamp": 1737882004000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1519765138",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1737788608000,
     "title": "Reverse Linked List",
-    "titleSlug": "reverse-linked-list"
+    "titleSlug": "reverse-linked-list",
+    "timestamp": 1737788608000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1519085449",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1737727655000,
     "title": "Linked List Cycle",
-    "titleSlug": "linked-list-cycle"
+    "titleSlug": "linked-list-cycle",
+    "timestamp": 1737727655000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1518224368",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1737653443000,
     "title": "Middle of the Linked List",
-    "titleSlug": "middle-of-the-linked-list"
+    "titleSlug": "middle-of-the-linked-list",
+    "timestamp": 1737653443000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1472846402",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1733593809000,
     "title": "Minimum Limit of Balls in a Bag",
-    "titleSlug": "minimum-limit-of-balls-in-a-bag"
+    "titleSlug": "minimum-limit-of-balls-in-a-bag",
+    "timestamp": 1733593809000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1453770478",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1731698262000,
     "title": "Delete Node in a Linked List",
-    "titleSlug": "delete-node-in-a-linked-list"
+    "titleSlug": "delete-node-in-a-linked-list",
+    "timestamp": 1731698262000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1431780388",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1729711712000,
     "title": "N-Queens",
-    "titleSlug": "n-queens"
+    "titleSlug": "n-queens",
+    "timestamp": 1729711712000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1430704629",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1729620693000,
     "title": "N-Queens",
-    "titleSlug": "n-queens"
+    "titleSlug": "n-queens",
+    "timestamp": 1729620693000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1430601939",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1729615134000,
     "title": "Letter Combinations of a Phone Number",
-    "titleSlug": "letter-combinations-of-a-phone-number"
+    "titleSlug": "letter-combinations-of-a-phone-number",
+    "timestamp": 1729615134000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1429641906",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1729535771000,
     "title": "Combination Sum II",
-    "titleSlug": "combination-sum-ii"
+    "titleSlug": "combination-sum-ii",
+    "timestamp": 1729535771000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1428235134",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1729419358000,
     "title": "Combinations",
-    "titleSlug": "combinations"
+    "titleSlug": "combinations",
+    "timestamp": 1729419358000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1428201498",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1729416277000,
     "title": "Permutations II",
-    "titleSlug": "permutations-ii"
+    "titleSlug": "permutations-ii",
+    "timestamp": 1729416277000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1427619985",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1729366631000,
     "title": "Permutations",
-    "titleSlug": "permutations"
+    "titleSlug": "permutations",
+    "timestamp": 1729366631000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1425785063",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1729196703000,
     "title": "Subsets II",
-    "titleSlug": "subsets-ii"
+    "titleSlug": "subsets-ii",
+    "timestamp": 1729196703000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1425772759",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1729195626000,
     "title": "Subsets",
-    "titleSlug": "subsets"
+    "titleSlug": "subsets",
+    "timestamp": 1729195626000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1424401335",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1729092775000,
     "title": "Combination Sum",
-    "titleSlug": "combination-sum"
+    "titleSlug": "combination-sum",
+    "timestamp": 1729092775000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1423016472",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1728985370000,
     "title": "Separate Black and White Balls",
-    "titleSlug": "separate-black-and-white-balls"
+    "titleSlug": "separate-black-and-white-balls",
+    "timestamp": 1728985370000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1423015254",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1728985274000,
     "title": "Separate Black and White Balls",
-    "titleSlug": "separate-black-and-white-balls"
+    "titleSlug": "separate-black-and-white-balls",
+    "timestamp": 1728985274000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1416756131",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1728459750000,
     "title": "Minimum Add to Make Parentheses Valid",
-    "titleSlug": "minimum-add-to-make-parentheses-valid"
+    "titleSlug": "minimum-add-to-make-parentheses-valid",
+    "timestamp": 1728459750000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1414042692",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1728242574000,
     "title": "Sentence Similarity III",
-    "titleSlug": "sentence-similarity-iii"
+    "titleSlug": "sentence-similarity-iii",
+    "timestamp": 1728242574000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1414042595",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1728242567000,
     "title": "Sentence Similarity III",
-    "titleSlug": "sentence-similarity-iii"
+    "titleSlug": "sentence-similarity-iii",
+    "timestamp": 1728242567000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1414042319",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1728242548000,
     "title": "Sentence Similarity III",
-    "titleSlug": "sentence-similarity-iii"
+    "titleSlug": "sentence-similarity-iii",
+    "timestamp": 1728242548000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1413619846",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1728214205000,
     "title": "Sentence Similarity III",
-    "titleSlug": "sentence-similarity-iii"
+    "titleSlug": "sentence-similarity-iii",
+    "timestamp": 1728214205000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1388103959",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1726171876000,
     "title": "Move Zeroes",
-    "titleSlug": "move-zeroes"
+    "titleSlug": "move-zeroes",
+    "timestamp": 1726171876000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1388102604",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1726171761000,
     "title": "Move Zeroes",
-    "titleSlug": "move-zeroes"
+    "titleSlug": "move-zeroes",
+    "timestamp": 1726171761000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1386974330",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1726084939000,
     "title": "Move Zeroes",
-    "titleSlug": "move-zeroes"
+    "titleSlug": "move-zeroes",
+    "timestamp": 1726084939000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1385817048",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1725997877000,
     "title": "Find Pivot Index",
-    "titleSlug": "find-pivot-index"
+    "titleSlug": "find-pivot-index",
+    "timestamp": 1725997877000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1384733965",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1725917329000,
     "title": "Rotate Array",
-    "titleSlug": "rotate-array"
+    "titleSlug": "rotate-array",
+    "timestamp": 1725917329000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1383130436",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1725793851000,
     "title": "Rotate Array",
-    "titleSlug": "rotate-array"
+    "titleSlug": "rotate-array",
+    "timestamp": 1725793851000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1383111491",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1725792372000,
     "title": "Rotate Array",
-    "titleSlug": "rotate-array"
+    "titleSlug": "rotate-array",
+    "timestamp": 1725792372000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1382475483",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1725740706000,
     "title": "Remove Duplicates from Sorted Array",
-    "titleSlug": "remove-duplicates-from-sorted-array"
+    "titleSlug": "remove-duplicates-from-sorted-array",
+    "timestamp": 1725740706000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1382474209",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1725740598000,
     "title": "Remove Duplicates from Sorted Array",
-    "titleSlug": "remove-duplicates-from-sorted-array"
+    "titleSlug": "remove-duplicates-from-sorted-array",
+    "timestamp": 1725740598000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1381997941",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1725708408000,
     "title": "Check if Array Is Sorted and Rotated",
-    "titleSlug": "check-if-array-is-sorted-and-rotated"
+    "titleSlug": "check-if-array-is-sorted-and-rotated",
+    "timestamp": 1725708408000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1367082179",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1724528602000,
     "title": "Split Array Largest Sum",
-    "titleSlug": "split-array-largest-sum"
+    "titleSlug": "split-array-largest-sum",
+    "timestamp": 1724528602000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1361344798",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1724071963000,
     "title": "Find Pivot Index",
-    "titleSlug": "find-pivot-index"
+    "titleSlug": "find-pivot-index",
+    "timestamp": 1724071963000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1360407033",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1723993182000,
     "title": "Peak Index in a Mountain Array",
-    "titleSlug": "peak-index-in-a-mountain-array"
+    "titleSlug": "peak-index-in-a-mountain-array",
+    "timestamp": 1723993182000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1351980656",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1723375254000,
     "title": "Fibonacci Number",
-    "titleSlug": "fibonacci-number"
+    "titleSlug": "fibonacci-number",
+    "timestamp": 1723375254000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1344641389",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1722799831000,
     "title": "Range Sum of Sorted Subarray Sums",
-    "titleSlug": "range-sum-of-sorted-subarray-sums"
+    "titleSlug": "range-sum-of-sorted-subarray-sums",
+    "timestamp": 1722799831000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1343367498",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1722706813000,
     "title": "Find All Duplicates in an Array",
-    "titleSlug": "find-all-duplicates-in-an-array"
+    "titleSlug": "find-all-duplicates-in-an-array",
+    "timestamp": 1722706813000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1329891405",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1721674529000,
     "title": "Valid Boomerang",
-    "titleSlug": "valid-boomerang"
+    "titleSlug": "valid-boomerang",
+    "timestamp": 1721674529000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1329844190",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1721671909000,
     "title": "Sort the People",
-    "titleSlug": "sort-the-people"
+    "titleSlug": "sort-the-people",
+    "timestamp": 1721671909000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1329830668",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1721671244000,
     "title": "Sort the People",
-    "titleSlug": "sort-the-people"
+    "titleSlug": "sort-the-people",
+    "timestamp": 1721671244000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1329813915",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1721670439000,
     "title": "Sort the People",
-    "titleSlug": "sort-the-people"
+    "titleSlug": "sort-the-people",
+    "timestamp": 1721670439000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1319964791",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1720894786000,
     "title": "Max Consecutive Ones",
-    "titleSlug": "max-consecutive-ones"
+    "titleSlug": "max-consecutive-ones",
+    "timestamp": 1720894786000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1308395746",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1720020234000,
     "title": "Number of 1 Bits",
-    "titleSlug": "number-of-1-bits"
+    "titleSlug": "number-of-1-bits",
+    "timestamp": 1720020234000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1308387581",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1720019753000,
     "title": "Subtract the Product and Sum of Digits of an Integer",
-    "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer"
+    "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+    "timestamp": 1720019753000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1296340540",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1719040063000,
     "title": "Complement of Base 10 Integer",
-    "titleSlug": "complement-of-base-10-integer"
+    "titleSlug": "complement-of-base-10-integer",
+    "timestamp": 1719040063000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1272430774",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1717079108000,
     "title": "Reverse Integer",
-    "titleSlug": "reverse-integer"
+    "titleSlug": "reverse-integer",
+    "timestamp": 1717079108000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1271718239",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1717008424000,
     "title": "Palindrome Number",
-    "titleSlug": "palindrome-number"
+    "titleSlug": "palindrome-number",
+    "timestamp": 1717008424000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1271679848",
-    "lang": "cpp",
-    "statusDisplay": "Accepted",
-    "timestamp": 1717005928000,
     "title": "Reverse Integer",
-    "titleSlug": "reverse-integer"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "256686407",
-    "lang": "Java 21",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1713118449000,
-    "title": "Special Characters",
-    "titleSlug": "1948/A"
-  },
-  {
-    "difficulty": "Easy",
-    "id": "256684759",
-    "lang": "Java 21",
-    "platform": "codeforces",
-    "rating": 800,
-    "statusDisplay": "Accepted",
-    "timestamp": 1713117571000,
-    "title": "Special Characters",
-    "titleSlug": "1948/A"
+    "titleSlug": "reverse-integer",
+    "timestamp": 1717005928000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1182274831",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1708539670000,
     "title": "Find Numbers with Even Number of Digits",
-    "titleSlug": "find-numbers-with-even-number-of-digits"
+    "titleSlug": "find-numbers-with-even-number-of-digits",
+    "timestamp": 1708539670000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1168991924",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1707326855000,
     "title": "Best Time to Buy and Sell Stock II",
-    "titleSlug": "best-time-to-buy-and-sell-stock-ii"
+    "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+    "timestamp": 1707326855000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1165185792",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1706989129000,
     "title": "Build Array from Permutation",
-    "titleSlug": "build-array-from-permutation"
+    "titleSlug": "build-array-from-permutation",
+    "timestamp": 1706989129000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1165168125",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1706987612000,
     "title": "Palindrome Number",
-    "titleSlug": "palindrome-number"
+    "titleSlug": "palindrome-number",
+    "timestamp": 1706987612000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1165167030",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1706987522000,
     "title": "Palindrome Number",
-    "titleSlug": "palindrome-number"
+    "titleSlug": "palindrome-number",
+    "timestamp": 1706987522000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1165166335",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1706987466000,
     "title": "Palindrome Number",
-    "titleSlug": "palindrome-number"
+    "titleSlug": "palindrome-number",
+    "timestamp": 1706987466000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1165160144",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1706986954000,
     "title": "Palindrome Number",
-    "titleSlug": "palindrome-number"
+    "titleSlug": "palindrome-number",
+    "timestamp": 1706986954000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1165159951",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1706986940000,
     "title": "Palindrome Number",
-    "titleSlug": "palindrome-number"
+    "titleSlug": "palindrome-number",
+    "timestamp": 1706986940000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1161168962",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1706630302000,
     "title": "Binary Search",
-    "titleSlug": "binary-search"
+    "titleSlug": "binary-search",
+    "timestamp": 1706630302000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1160809676",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1706598960000,
     "title": "Binary Search",
-    "titleSlug": "binary-search"
+    "titleSlug": "binary-search",
+    "timestamp": 1706598960000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1158134542",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1706348626000,
     "title": "Richest Customer Wealth",
-    "titleSlug": "richest-customer-wealth"
+    "titleSlug": "richest-customer-wealth",
+    "timestamp": 1706348626000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1158112644",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1706346421000,
     "title": "Find Numbers with Even Number of Digits",
-    "titleSlug": "find-numbers-with-even-number-of-digits"
+    "titleSlug": "find-numbers-with-even-number-of-digits",
+    "timestamp": 1706346421000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1158112331",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1706346386000,
     "title": "Find Numbers with Even Number of Digits",
-    "titleSlug": "find-numbers-with-even-number-of-digits"
+    "titleSlug": "find-numbers-with-even-number-of-digits",
+    "timestamp": 1706346386000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1151790972",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1705770377000,
     "title": "Subtract the Product and Sum of Digits of an Integer",
-    "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer"
+    "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+    "timestamp": 1705770377000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   },
   {
     "id": "1147993671",
-    "lang": "java",
-    "statusDisplay": "Accepted",
-    "timestamp": 1705423312000,
     "title": "Two Sum",
-    "titleSlug": "two-sum"
+    "titleSlug": "two-sum",
+    "timestamp": 1705423312000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   }
 ]
