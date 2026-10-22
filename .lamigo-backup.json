@@ -1,3 +1,34 @@
 {
-  "own_username": "shibui"
+  "friend_identities_v2": [
+    {
+      "accounts": [
+        {
+          "handle": "shibui",
+          "lastFetched": 1792648092078,
+          "platform": "leetcode",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1792648092078,
+      "aliases": [],
+      "displayName": "shibui",
+      "id": "e2b30e7b-d54e-42b1-b374-5b8089a14c1e",
+      "updatedAt": 1792648092078
+    }
+  ],
+  "own_username": "shibui",
+  "sync_history": [
+    {
+      "problems": [
+        "Symmetric Tree",
+        "Diameter of Binary Tree",
+        "Binary Tree Preorder Traversal",
+        "Fruit Into Baskets",
+        "Magnetic Force Between Two Balls"
+      ],
+      "problemsSynced": 100,
+      "status": "success",
+      "timestamp": 1792648086468
+    }
+  ]
 }
