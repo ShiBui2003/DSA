@@ -6,9 +6,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 | :--- | :--- | :--- | :--- |
 | 2026-10-08 | Leetcode | Binary Tree Zigzag Level Order Traversal | cpp |
 | 2026-10-07 | Leetcode | Symmetric Tree | cpp |
-| 2026-10-07 | Codeforces | Array Coloring | C++17 (GCC 7-32) |
 | 2026-10-06 | Leetcode | Binary Tree Maximum Path Sum | cpp |
-| 2026-10-02 | Codeforces | Buttons | C++17 (GCC 7-32) |
 | 2026-10-02 | Leetcode | Generate Parentheses | cpp |
 | 2026-10-02 | Leetcode | Two Sum | cpp |
 | 2026-09-10 | Leetcode | Diameter of Binary Tree | cpp |
@@ -123,7 +121,6 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2026-01-24 | Leetcode | Online Stock Span | cpp |
 | 2026-01-24 | Leetcode | Online Stock Span | cpp |
 | 2026-01-23 | Leetcode | Sliding Window Maximum | cpp |
-| 2026-01-22 | Codeforces | United We Stand | C++17 (GCC 7-32) |
 | 2026-01-22 | Leetcode | Minimum Pair Removal to Sort Array I | cpp |
 | 2026-01-21 | Leetcode | Maximal Rectangle | cpp |
 | 2026-01-20 | Leetcode | Largest Rectangle in Histogram | cpp |
@@ -134,20 +131,10 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2026-01-16 | Leetcode | Sum of Subarray Ranges | cpp |
 | 2026-01-16 | Leetcode | Sum of Subarray Ranges | cpp |
 | 2026-01-15 | Leetcode | Asteroid Collision | cpp |
-| 2026-01-15 | Codeforces | Sequence Game | C++17 (GCC 7-32) |
-| 2026-01-15 | Codeforces | Ambitious Kid | C++17 (GCC 7-32) |
 | 2026-01-14 | Leetcode | Sum of Subarray Minimums | cpp |
 | 2026-01-12 | Leetcode | Count Primes | cpp |
 | 2026-01-10 | Leetcode | Minimum Bit Flips to Convert Number | cpp |
 | 2026-01-09 | Leetcode | Divide Two Integers | cpp |
-| 2025-12-27 | Codeforces | Target Practice | C++17 (GCC 7-32) |
-| 2025-12-26 | Codeforces | Goals of Victory | C++17 (GCC 7-32) |
-| 2025-12-25 | Codeforces | How Much Does Daytona Cost? | C++17 (GCC 7-32) |
-| 2025-12-25 | Codeforces | Don't Try to Count | C++17 (GCC 7-32) |
-| 2025-12-24 | Codeforces | Doremy's Paint 3 | C++17 (GCC 7-32) |
-| 2025-12-23 | Codeforces | Jagged Swaps | C++17 (GCC 7-32) |
-| 2025-12-23 | Codeforces | Game with Integers | C++17 (GCC 7-32) |
-| 2025-12-23 | Codeforces | Cover in Water | C++17 (GCC 7-32) |
 | 2025-11-19 | Leetcode | Keep Multiplying Found Values by Two | cpp |
 | 2025-11-18 | Leetcode | Trapping Rain Water | cpp |
 | 2025-11-18 | Leetcode | 1-bit and 2-bit Characters | cpp |
@@ -203,7 +190,6 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2025-09-26 | Leetcode | Sort Characters By Frequency | cpp |
 | 2025-09-25 | Leetcode | Valid Anagram | cpp |
 | 2025-09-25 | Leetcode | Rotate String | cpp |
-| 2025-09-24 | Codeforces | Greetings | C++17 (GCC 7-32) |
 | 2025-09-24 | Leetcode | Longest Common Prefix | cpp |
 | 2025-09-24 | Leetcode | Longest Common Prefix | cpp |
 | 2025-09-23 | Leetcode | Largest Odd Number in String | cpp |
@@ -217,8 +203,6 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2025-07-19 | Leetcode | Search a 2D Matrix II | cpp |
 | 2025-07-18 | Leetcode | Search a 2D Matrix | cpp |
 | 2025-07-17 | Leetcode | Median of Two Sorted Arrays | cpp |
-| 2025-07-11 | Codeforces | Line Trip | C++17 (GCC 7-32) |
-| 2025-07-09 | Codeforces | Halloumi Boxes | C++17 (GCC 7-32) |
 | 2025-06-30 | Leetcode | Kth Missing Positive Number | cpp |
 | 2025-06-26 | Leetcode | Capacity To Ship Packages Within D Days | cpp |
 | 2025-06-25 | Leetcode | Find the Smallest Divisor Given a Threshold | cpp |
@@ -313,8 +297,6 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2024-05-30 | Leetcode | Reverse Integer | cpp |
 | 2024-05-29 | Leetcode | Palindrome Number | cpp |
 | 2024-05-29 | Leetcode | Reverse Integer | cpp |
-| 2024-04-14 | Codeforces | Special Characters | Java 21 |
-| 2024-04-14 | Codeforces | Special Characters | Java 21 |
 | 2024-02-21 | Leetcode | Find Numbers with Even Number of Digits | java |
 | 2024-02-07 | Leetcode | Best Time to Buy and Sell Stock II | java |
 | 2024-02-03 | Leetcode | Build Array from Permutation | java |
